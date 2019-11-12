@@ -1,6 +1,6 @@
 ## Learning to Ask Unanswerable Questions for Machine Reading Comprehension (ACL 2019)
 
-This repo holds the data resources used in the [paper](https://www.aclweb.org/anthology/P19-1415/). 
+This repo holds data resources used in the [paper](https://www.aclweb.org/anthology/P19-1415/). 
 
 ### Question Generation
 Directory 'QG' contains data for question generation experiments.
