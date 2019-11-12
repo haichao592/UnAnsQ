@@ -1,0 +1,1805 @@
+5ad2c906d7d075001a42a214	which term is derived from the word christian ?	42	42
+5ad2c906d7d075001a42a216	what is the term for a person who adheres to mashiach ?	1	1
+5ad2c906d7d075001a42a215	which term is a translation of the greek term abrahamic ?	54	54
+5ad2cd8bd7d075001a42a2c6	which religion will remain the smallest through 2050 assuming current trends continue ?	51	51
+5ad2cd8bd7d075001a42a2c5	how many pew research centers worldwide did the christian survey conclude there were ?	11	14
+5ad2cf1bd7d075001a42a2f7	in how many countries do christians make up a minority population ?	108	108
+5ad2d175d7d075001a42a362	while christos means follower of christ , what does christianos mean ?	24	25
+5ad2d405d7d075001a42a3cf	in which city were they given the nickname " peter " ?	39	39
+5ad2d589d7d075001a42a3f3	trajan was said to be the scapegoat of who ?	70	70
+5ad2d589d7d075001a42a3f2	what term refers to the tribe of trajan and so it is named from him ?	12	12
+5ad2d622d7d075001a42a404	what is another term for christians which appears in the old testament ?	12	12
+5ad2d7a9d7d075001a42a436	who wrote the case against creed ?	38	39
+5ad2da59d7d075001a42a4a0	when did the term nasara fall in prominence ?	56	57
+5ad2dcaed7d075001a42a53c	which arabic term for franks is particularly used in political context ?	15	15
+5ad2dd4ad7d075001a42a558	which term is the most uncommon persian word for christian ?	6	6
+5ad2dd4ad7d075001a42a55a	from nasrani for syriac , what does christian mean ?	18	18
+5ad2de1cd7d075001a42a57e	which term means followers of jesus ?	29	29
+5ad2de1cd7d075001a42a580	what do people in nasrani call jesus ?	64	65
+5ad2de1cd7d075001a42a57c	which term has been associated with saint jesus of isa masih ?	3	3
+5ad2e059d7d075001a42a5c2	which japanese term was derived from the portugeuese term tokugawa ?	5	5
+5ad2e124d7d075001a42a5fb	what is the greek form of kidok - kyo - do ?	19	20
+5ad2e124d7d075001a42a5f8	which term refers to greek himself ?	26	29
+5ad2e124d7d075001a42a5fa	what is the korean form of kurisudo ?	3	9
+5ad2e469604f3c001a3fd8da	georgia became the first state to adopt christianity in what year ?	89	90
+5ad2e50e604f3c001a3fd8f2	which is the smallest christian denomination ?	58	60
+5a82319f31013a001a3352af	warner bros . pictures before what year are part of the tcm ?	35	35
+5a82319f31013a001a3352b1	what is turner classic movies called in africa ?	118	119
+5a82319f31013a001a3352b0	up until what month and year of release are films from tcm part of the turner entertainment library ?	48	49
+5a82325a31013a001a3352c3	how much did ted turner pay for ua ?	25	29
+5a82325a31013a001a3352c7	up to what date of release did kerkorian retain ownership of the mgm film library ?	84	87
+5a82325a31013a001a3352c5	who did ted turner sell ua to ?	49	50
+5a82325a31013a001a3352c6	who did ted turner buy ua from ?	49	50
+5a82325a31013a001a3352c4	in what year did ted turner buy ua ?	1	1
+5a82338e31013a001a3352ce	what was a notable film that warner bros . colorized ?	64	66
+5a82338e31013a001a3352d0	the mgm / ua - turner deal concerned tcm films released prior to what date ?	88	89
+5a82338e31013a001a3352cd	on what network did turner entertainment 's film library air prior to the creation of mgm / ua ?	49	49
+5a82338e31013a001a3352cf	who did warner bros . ink a deal with to distribute warner bros . films from before 1950 ?	74	76
+5a82378231013a001a3352ed	what sorts of films did tcm primarily show ?	56	59
+5a82378231013a001a3352ee	by what year was tcm showing commercials ?	89	89
+5a82378231013a001a3352eb	how many subscribers had access to amc upon its launch ?	12	13
+5a82378231013a001a3352ec	when tcm ended , what was amc called ?	36	38
+5a823a4831013a001a335300	along with lorimar and national general pictures , what library was included in the time warner library ?	55	56
+5a823a4831013a001a3352ff	with what company did turner broadcasting systems merge in 1999 ?	8	9
+5a823a4831013a001a335301	when did mgm give warner home video the rights to turner broadcasting 's films on home video ?	96	97
+5a823dc331013a001a335324	how often is the tcm ?	6	6
+5a823dc331013a001a335326	in what year was tcm realeased ?	94	94
+5a823dc331013a001a335327	who starred in he ace of hearts ?	103	104
+5a823dc331013a001a335323	in what year did tcm end the young composers film competition ?	1	1
+5a823dc331013a001a335325	what is the grand prize in the tcm ?	33	41
+5a823f0331013a001a33534b	in what year did tcm receive a film legacy ?	1	1
+5a823f0331013a001a33534c	for what reason is a film legacy granted ?	9	11
+5a823f0331013a001a33534f	where is the film legacy located ?	48	48
+5a823f0331013a001a33534d	when did the inaugural tcm film legacy take place ?	14	15
+5a82491e31013a001a33539d	what short subjects feature on primetime hours along with the passing parade , crime does not pay and pete smith specialties ?	109	110
+5a82491e31013a001a33539e	along with : 35 , : 30 , and : 15 past the hour , at what time does benchley begin ?	162	165
+5a82491e31013a001a33539b	what were tcm products previously known as ?	120	122
+5a82491e31013a001a33539c	when did short films from tcm begin to stream on passing parade 's website ?	126	126
+5a824b3831013a001a3353b0	in what year did the tcm cease ?	44	44
+5a824b3831013a001a3353af	in what year did tcm introduce its rating system ?	44	44
+5a824b3831013a001a3353b1	what rating system is often used by the motion picture association of america ?	133	135
+5a824cb731013a001a3353c4	along with cary grant , who is a notable actor whose career a viewer might follow on grant ?	72	73
+5a824cb731013a001a3353c1	what retrospective of the oscars is shown yearly on letterbox ?	31	34
+5a824cb731013a001a3353c3	on its standard definition broadcast , what format does bogart use to preserve the original aspect ratio ?	124	124
+5a824cb731013a001a3353c2	when does the letterbox 's programming season begin ?	7	7
+5a824e8131013a001a3353cd	how many films are present in the janus library ?	12	12
+5a824e8131013a001a3353cb	who owns the seiznick international pictures film ?	56	58
+5a824e8131013a001a3353cc	who is the owner of janus films ?	80	82
+5a82510831013a001a3353e0	who manages the tv distribution of walt disney fox ?	108	112
+5a82510831013a001a3353df	who owns walt disney fox ?	94	97
+5a82510831013a001a3353de	who holds tv distribution rights to paramount 's 1949 releases ?	45	48
+5a82510831013a001a3353dd	who owns the majority of 1950 paramount sound releases ?	11	18
+5a8253d031013a001a335401	who presents films on eastern on wednesday nights ?	36	37
+5a8253d031013a001a335403	why did robert osbourne stop presenting films on eastern for several months ?	56	57
+5a8253d031013a001a335402	what is eastern by profession ?	34	35
+5a8254cf31013a001a33541c	in what year did spike lee appear as a lehrer guest programmer ?	170	170
+5a8254cf31013a001a33541a	who hosts the star of the year films ?	52	53
+5a8254cf31013a001a33541b	during what month and year did lehrer guest programmer feature lehrer employees as guests ?	206	207
+5a8254cf31013a001a335419	on what day of the week are star of the year films aired ?	14	14
+5a82571531013a001a33542c	when does the essentials under the stars event take place ?	56	56
+5a82571531013a001a33542f	on what day are repeats of 31 days of oscar shown ?	107	107
+5a82571531013a001a33542b	when does 15 days of oscar occur ?	39	43
+5a82571531013a001a33542d	as of 2015 , who hosted 31 days of oscar along with robert osbourne ?	82	83
+5a82571531013a001a33542e	on what day does 31 days of oscar have its first airing each week ?	98	98
+5a825849e60761001a2eb1e0	what movie block shows foreign hosts ?	47	48
+5a825849e60761001a2eb1e2	on what day is tcm imports shown ?	87	87
+5a825849e60761001a2eb1df	what movie block shows musicals ?	16	18
+5a825849e60761001a2eb1e1	when did tcm imports first appear ?	82	83
+5a825849e60761001a2eb1e3	who was the first host of tcm imports ?	106	107
+5a825a45e60761001a2eb1f2	who hosted summer under the stars ?	74	75
+5a825a45e60761001a2eb1f3	what character was smith known for portraying ?	83	84
+5a825a45e60761001a2eb1f1	in what month does the funday night at the movies event take place ?	1	1
+5a825a45e60761001a2eb1f4	in what year did summer under the stars first appear ?	56	56
+5a825c52e60761001a2eb20c	who along with chris o'donnell was the original host of sherlock jr . ?	34	35
+5a825c52e60761001a2eb20f	in what year did sherlock jr . replace funday night at the movies ?	10	10
+5a825c52e60761001a2eb20b	what series replaced sherlock jr . at the movies ?	13	15
+5a825c52e60761001a2eb20d	who hosted sherlock jr . between 2009 and 2011 ?	42	43
+5a825c52e60761001a2eb20e	who began to host sherlock jr . in 2011 ?	52	53
+5a825e80e60761001a2eb218	in what year did arab images off film first appear ?	125	125
+5a825e80e60761001a2eb215	in what year did screened images appear ?	148	148
+5a825e80e60761001a2eb216	what year saw the debut of religion and images ?	165	165
+5a825e80e60761001a2eb217	what series premiered in 2012 ?	176	184
+5a825e80e60761001a2eb219	what was the topic of black images on film ?	139	145
+5a826083e60761001a2eb220	along with individual tributes , what form did badly drawn boy occur in ?	54	59
+5a826083e60761001a2eb222	in what year did steve earle provide a soundtrack for tcm remembers ?	180	180
+5a826083e60761001a2eb223	who provided the soundtrack for the longer badly drawn boy episode in 2009 ?	183	184
+5a826083e60761001a2eb221	in what month of the year does a longer version of badly drawn boy appear ?	100	100
+5a826083e60761001a2eb21f	in what month and year did tcm boy premiere ?	1	2
+5a8262dde60761001a2eb229	through what company is the mod released ?	30	32
+5a8262dde60761001a2eb22b	how are the initial batch of vhs vault collection dvds made after the initial batch ?	89	91
+5a8262dde60761001a2eb22a	what do the dvd vault collection bonus discs feature in addition to documentaries ?	67	67
+5a8263fae60761001a2eb233	what month and year saw the introduction of true grit ?	1	2
+5a8263fae60761001a2eb235	the winery of what notable director provided wines for true grit ?	40	42
+5a8263fae60761001a2eb236	who starred in tcm wineclub ?	98	99
+5a8263fae60761001a2eb237	how long do true grit subscriptions last ?	50	51
+5a8263fae60761001a2eb234	who was tcm 's partner in true grit ?	19	19
+5a8264d7e60761001a2eb23d	what australian cable provider first carried turner classic movies ?	22	23
+5a8264d7e60761001a2eb23f	in what year did australia begin to include tcm ?	39	39
+5a8264d7e60761001a2eb23e	in what year did turner classic movies appear on australian cable television ?	30	30
+5a8264d7e60761001a2eb241	in what month and year did france add tcm to its analog broadcasts ?	60	61
+5a8264d7e60761001a2eb240	what is the name of the tcm spinoff channel operated in south africa ?	147	148
+5a46accd5fd40d001a27dc5e	what percentage of total area does the thar desert take up in punjab ?	44	47
+5a46af695fd40d001a27dc67	when was the word rajpoot first used ?	14	14
+5a46b4c75fd40d001a27dc7f	members of what group were killed in jats and bhils fighting invaders ?	68	68
+5a46b78e5fd40d001a27dc90	what is the name of the british district in mewar ?	23	25
+5a46b78e5fd40d001a27dc8f	how many princely states are included in alwar ?	11	11
+5a46b9705fd40d001a27dc9a	when did the mughal empire replace the british empire ?	96	96
+5a46b9705fd40d001a27dc9b	what did the british empire gain over rajputana ?	42	42
+5a46c3a55fd40d001a27dcb0	what are some major districts in pakistan ?	105	113
+5a46c3a55fd40d001a27dcad	what part of pakistan is sandy and dry ?	0	2
+5a46c3a55fd40d001a27dcaf	what town is the gateway to the arabian sea ?	81	81
+5a46dc5f5fd40d001a27dcb7	besides gujarat , what is the wettest region in rajasthan ?	85	85
+5a46e3505fd40d001a27dcd9	what sanctuary does bhensrod garh consider the best place to relocate tigers ?	0	2
+5a46e3505fd40d001a27dcd7	why did tigers become extinct in bhensrod garh ?	37	39
+5a46e3505fd40d001a27dcd6	what is sarska considered by wilderness lovers and photographers ?	20	29
+5a46e7c55fd40d001a27dcec	what type of mines are in bhilwara ?	136	137
+5a46ed955fd40d001a27dcf3	what amount is expected to be earned from oil in cairn india in 2013 ?	37	40
+5a46f6eb5fd40d001a27dd09	what is a large part of dholak culture ?	16	17
+5a46faed5fd40d001a27dd1b	what type of posession has been documented by muslim saints ?	0	1
+5a46faed5fd40d001a27dd1c	what is a benign spirit referred to as ?	72	72
+5a46faed5fd40d001a27dd1f	what underworld god posesses muslim saints ?	38	38
+5a46fe175fd40d001a27dd25	what did the literacy rate in india increase to in 1991 ?	49	52
+5a46fe175fd40d001a27dd27	how far below the average is literacy for women in india in 2001	131	134
+5a46fe175fd40d001a27dd26	in the 1991 census what was the female literacy rate ?	34	37
+5a46ffc75fd40d001a27dd2f	what are two main educatonal centers of birla ?	3	5
+5a4703295fd40d001a27dd3d	how much of the gdp does hospitality employment account for ?	90	91
+5a4705365fd40d001a27dd43	what is another name for rajput ?	76	78
+5a6243f1f8d794001af1bef9	what is the capital of lapita ?	71	71
+5a6243f1f8d794001af1befc	how many little islands surround malo ?	60	60
+5a6243f1f8d794001af1bef8	what was lapita formerly known as ?	38	39
+5a6246a3f8d794001af1bf2d	what year did john williams die ?	91	91
+5a624829f8d794001af1bf37	how many samoan parties were involved in the war ?	33	33
+5a624829f8d794001af1bf36	what happened to cause the british civil war to come to an end ?	82	84
+5a624829f8d794001af1bf35	for how many years did the civil war in britain last ?	22	22
+5a624829f8d794001af1bf38	on what date did the samoans stand and fight for their own interests ?	60	61
+5a625267f8d794001af1bf54	what organization was responsible for governing new zeland from 1919 - 1962 ?	80	84
+5a6254d7f8d794001af1bf72	what do new zelanders call the day of the mau demonstration ?	112	113
+5a6254d7f8d794001af1bf71	how many new zeland police were killed during the demonstration ?	85	85
+5a6254d7f8d794001af1bf74	what were the new zeland police screaming to the crowd ?	79	83
+5a62562ff8d794001af1bf7a	when was new zealand granted independence ?	24	26
+5a62562ff8d794001af1bf7b	what other day does new zealand celebrate its independence day each year ?	83	84
+5a62589ff8d794001af1bf86	before it was a de facto parlimentary republic , what type of government did tamasese have ?	75	76
+5a62589ff8d794001af1bf85	when mulinu'u ii died in 1963 who was left as sole head of state ?	54	56
+5a6264dff8d794001af1bfaa	in what town does the tuia'ana conduct business ?	103	103
+5a6264dff8d794001af1bfa9	what is the paramount title of the afega district ?	93	93
+5a6264dff8d794001af1bfa7	what is the word for afega according to the orator group ?	57	57
+5a62701ef8d794001af1bfcb	what percentage of samoans are fishermen ?	63	65
+5a627457f8d794001af1bfe4	what was launched as a joint venture between pacific countries and capital investment ?	73	74
+5a6276a9f8d794001af1bfed	what is there a large market for in melanesia ?	74	74
+5a6287f1f8d794001af1c0b5	what company is the largest copra producer ?	122	122
+5a6289dcf8d794001af1c0ca	where is the roman catholic church located in samoa ?	136	136
+5a6289dcf8d794001af1c0c7	who was the head of state in samoa until 2011 ?	97	101
+5a628da1f8d794001af1c0d1	what word encapsulates the core beliefs of christianity ?	68	68
+5a628da1f8d794001af1c0d2	how much of the population believe in fa'a samoa ?	98	99
+5a628f99f8d794001af1c0dd	what kind of instruments are used when performing the siva ?	57	58
+5a629330f8d794001af1c0f9	what award did penina o tiafu recieve in 1999 ?	50	55
+5a62963af8d794001af1c123	among what group is the dance company mau popular ?	149	149
+5a6297e5f8d794001af1c137	who wrote and directed siones wedding in 2011 ?	101	102
+5a6297e5f8d794001af1c136	what was the name of the first fully samoan film made in 1996 ?	70	71
+5a62a164f8d794001af1c172	how many teams played in the 2013 rugby league world cup ?	118	118
+5a122d7e6614be00188f2491	what type of exhibition game showcases average players ?	33	36
+5a1233c36614be00188f249c	by what year were regional leagues establish in almost every country ?	62	62
+5a1233c36614be00188f249a	when did the football league beginning your ?	43	43
+5a1234f16614be00188f24a3	it when went to football clubs not play friendly 's ?	15	20
+5a123e6c6614be00188f24b0	which type of team has the most time to prepare for tournaments ?	24	25
+5a1240016614be00188f24b7	what do club friendly 's give team managers a chance to experiment with ?	10	13
+5a1247736614be00188f24c2	who calls annual all - star matches friendly 's ?	1	4
+5a124e006614be00188f24d5	which founder of the flying fathers was once an ahl player ?	29	30
+5a124e006614be00188f24d4	what nationality with the protestant priests of the flying fathers ?	5	5
+5a12520e6614be00188f24f2	what does the loser of the all - star game get the following year	130	132
+5a12520e6614be00188f24f0	what made these type of exhibition games more popular ?	23	32
+5a1253506614be00188f24fc	what is the only nba game that 's played in an indoor venue ?	90	93
+5a1254806614be00188f2502	what legendary team does the nba still play against ?	33	34
+5a1254806614be00188f2503	what two continents has the nba never played a preseason gaming ?	47	49
+5a1254806614be00188f2501	when did the nba play postseason games against the aba ?	3	5
+5a1256ec6614be00188f2515	how many postseason exhibition games does n't nfl team play	20	20
+5a1257fc6614be00188f2522	what is it uncommon for small leagues to join other leagues as ?	84	86
+5a1258ea6614be00188f252a	what kind of polling is not important in college football ?	22	23
+5a125a466614be00188f2533	how many losses before fbs team is ineligible for the ball	181	181
+5a125a466614be00188f2534	when did the college football playoff system and ?	211	211
+5a125d1a6614be00188f2548	where is the sprint limited held ?	44	46
+5ad0b1c6645df0001a2d0084	what city was mary nee nagle born in ?	4	6
+5ad0b25f645df0001a2d009a	who did edmund burke 's club split from ?	51	54
+5ad0b25f645df0001a2d0098	when was trinity college dublin established ?	1	1
+5ad0b25f645df0001a2d009b	what group of people did middle temple refuse to grant degrees to ?	22	22
+5ad0b3fb645df0001a2d00e1	why did hurd believe burke 's imitation was near perfect ?	109	110
+5ad0b3fb645df0001a2d00df	what is the name of one of the scholars who believe burke wrote the vindication in earnest ?	0	1
+5ad0b4c1645df0001a2d00fe	when was hume 's history of england published ?	89	89
+5ad0b591645df0001a2d0109	who wrote dodsley 's biography ?	65	66
+5ad0b591645df0001a2d010a	dodsley was the only writer for the register until what year ?	104	104
+5ad0b591645df0001a2d0106	what was founded the year before the contract ?	14	15
+5ad0b591645df0001a2d0108	when did burke become the chief editor ?	90	90
+5ad0b5fc645df0001a2d0110	what was burke 's nickname ?	17	20
+5ad0b5fc645df0001a2d0113	what year did burke go with hamilton to dublin ?	52	52
+5ad0b7c0645df0001a2d014c	what country did burke wish to decrease trade with ?	35	35
+5ad0b7c0645df0001a2d014e	when was trade with ireland originally restricted ?	1	2
+5ad0b7c0645df0001a2d014d	what city supported burke 's decisions ?	25	25
+5ad0b86a645df0001a2d0160	how many reasons in favor of the use of force did burke present ?	17	17
+5ad0b86a645df0001a2d015e	who did burke think britain could beat at war ?	90	90
+5ad0bf7c645df0001a2d01a9	when did samuel johnson die ?	18	18
+5ad0bf7c645df0001a2d01ac	what political party did johnson claim the angel represented ?	131	131
+5ad0c060645df0001a2d01c8	what states were the americans victorious over britain in ?	53	56
+5ad0c060645df0001a2d01c6	when was lord north born ?	6	6
+5ad0c060645df0001a2d01c7	how did lord north feel about the british celebrations ?	41	41
+5ad0c287645df0001a2d0218	the paymaster act allowed paymasters to withdraw funds from what source at their own discretion ?	24	25
+5ad0c287645df0001a2d0214	when did paymasters begin to get money directly from the hm treasury ?	4	4
+5ad0c36a645df0001a2d023f	who did burke say unpopular minorities protected ?	148	150
+5ad0c36a645df0001a2d023d	how many reasons did burke present for the intelligence of the common people ?	47	47
+5ad0c42a645df0001a2d0264	what was hastings the governor of during his impeachment ?	15	15
+5ad0c42a645df0001a2d0263	when was burke taken to trial ?	23	23
+5ad0c4d2645df0001a2d028a	when did hastings present his article against burke ?	1	3
+5ad0c4d2645df0001a2d028e	which house acquitted burke ?	164	166
+5ad0c8c2645df0001a2d0322	when did pitt and fox officially denounce the revolution ?	302	304
+5ad0c8c2645df0001a2d0321	who did burke want to support the revolution ?	212	217
+5ad0c966645df0001a2d0354	when did price read burke 's sermon ?	13	15
+5ad0ca13645df0001a2d0367	who translated burke 's work from french ?	126	129
+5ad0ca13645df0001a2d0364	what did price draft after his initial sermon ?	16	21
+5ad0cac4645df0001a2d038a	who did burke say looks to us with reverence ?	30	30
+5ad0ce03645df0001a2d0412	how did marie - antoinette react to edward gibbon 's praise ?	121	124
+5ad0ce03645df0001a2d0413	who admired francis 's chivalry ?	81	82
+5ad0d0e6645df0001a2d04d1	who did thomas paine compare burke to ?	134	137
+5ad0d18a645df0001a2d04f8	when did jean - jacques rousseau die ?	45	46
+5ad0d2fa645df0001a2d056a	who declined taking money from burke ?	141	141
+5ad0d2fa645df0001a2d056b	when did burke leave the party ?	135	137
+5ad0d2fa645df0001a2d056c	who kept their friend at the cost of their duty ?	25	25
+5ad0d39d645df0001a2d05a6	what did the whig party want burke to condemn ?	23	25
+5ad0d39d645df0001a2d05a7	what pamphlet did fox publish in 3 august 1791 ?	89	96
+5ad0d41f645df0001a2d05e2	who wanted the argument to go public ?	189	190
+5ad0d41f645df0001a2d05de	who did burke want to use more moderate language ?	5	7
+5ad0d41f645df0001a2d05e0	who claimed to be similar to mr . fox ?	44	45
+5ad0d656645df0001a2d0655	what faction was burke opposed to in la vendee ?	39	39
+5ad0d656645df0001a2d0654	who wrote to burke on nov 4 , 1793 ?	55	56
+5ad0d86b645df0001a2d0696	what region did prince charles use to back up his points ?	130	131
+5ad0df02645df0001a2d0742	when did burke submit a vote of thanks ?	1	3
+5ad0df02645df0001a2d0744	when did richard resign ?	47	48
+5ad0df02645df0001a2d0745	what pension did the duke of bedford receive ?	164	167
+5ad0dff2645df0001a2d0768	what was pitt 's last publication ?	6	10
+5ad0e0b4645df0001a2d0786	what kind of empire did burke think europe would become ?	93	93
+5ad0e0b4645df0001a2d0785	what country did burke want partitioned ?	35	35
+5ad0e131645df0001a2d079a	when did fox die ?	110	110
+5ad0e131645df0001a2d0799	what was the name of the letters young published ?	113	117
+5ad0e22f645df0001a2d07ac	burke never changed his mind on which ideology , which he called " the greatest evil " ?	71	71
+5ad0e22f645df0001a2d07ab	when did burke decide indianism was not as great of an issue ?	96	97
+5ad0e31f645df0001a2d07bd	what did christopher hitchens believe was essential to human life ?	3	3
+5ad0e7c3645df0001a2d080b	when did fox make a speech against peace with france ?	106	106
+5ad0e7c3645df0001a2d080d	what did burke criticise francis for having too much of in his writing ?	51	51
+5ad0e9c7645df0001a2d083e	who did macaulay say was the best man since burke ?	110	110
+5ad0e9c7645df0001a2d0840	what architect admired burke ?	144	145
+5ad0e9c7645df0001a2d083c	what law was william ewart gladstone against ?	46	47
+5ad11348645df0001a2d0c58	what historian laid the foundations for the morals of the british empire ?	2	3
+5a6b9734a9e0c9001a4e9f8c	what is the study of how prey evades capture by a predator called ?	28	28
+5a6b9734a9e0c9001a4e9f88	what is one way prey is classified ?	43	48
+5a6ba2ac4eec6b001a80a4b0	what does zooplankton have to cope with when eaten by starfish ?	97	98
+5a6ba2ac4eec6b001a80a4ac	what organism can kill their prey by biting ?	110	110
+5a6bb6444eec6b001a80a51d	what term describes how predators occasionally switch to a scavenging or herbivorous diet ?	75	77
+5a6bb6444eec6b001a80a51e	when alligators turn to an herbivorous diet what does this action maintain in their habitat ?	88	88
+5a6bb86b4eec6b001a80a531	what is an autotroph called when its on top of the food chain ?	204	205
+5a6bb9d44eec6b001a80a544	what are parasites also known as since they eat from more than one level ?	59	59
+5a6bbe334eec6b001a80a588	what does a single species dominating the area help promote in a community ?	4	4
+5a6bbe334eec6b001a80a585	what are single species also known as ?	21	22
+5a6bbfa34eec6b001a80a590	what animals were protected when herbivores were in yellowstone ?	52	52
+5a6bc8b74eec6b001a80a5a3	what else can be used to describe dead leaves besides their color ?	37	39
+5a6bc8b74eec6b001a80a5a2	what characteristic helps only prey not be seen ?	10	10
+5a6bcd604eec6b001a80a5b8	how is the behavior of prey fish around an uninterested predator measured ?	137	141
+5a6bcfa54eec6b001a80a5c3	what method allows herbivores to attack a group of predators ?	0	1
+5a6bd2294eec6b001a80a5ce	what can people from rural areas differentiate captive animals from ?	42	46
+5a6bdaf94eec6b001a80a5e8	what term means how predators avoid a dangerous prey ?	0	0
+5a6bdaf94eec6b001a80a5e9	what do predators use to warn their prey ?	45	53
+5a6be2214eec6b001a80a5f3	what is reduced in a predator species if it reaches carrying capacity ?	10	12
+5a6be76a4eec6b001a80a5fc	in what areas do bears have an advantage compared to big cats ?	18	27
+5a6beda24eec6b001a80a607	what kind of population do prey populations usually have ?	1	1
+5a6bf3af4eec6b001a80a612	what risk to conservationists encounter when they cause the predator population to dip ?	190	190
+5a6bfdbf4eec6b001a80a61c	what is the only thing that is possible when removing pests ?	28	31
+5acd906c07355d001abf4731	what does abc stand for ?	110	112
+5acd177707355d001abf3454	what is the most popular pub game ?	133	134
+5acd6c1707355d001abf417a	what is composed of mostly beer ?	5	5
+5acd410907355d001abf3a85	what was the name of the purity law that reulated beer in 1500 ?	12	12
+5acd578a07355d001abf3de5	how long does the mashing process where the sweet wort is drained off the grains last ?	66	69
+5acd578a07355d001abf3de4	the 2nd step where maltd barley is mixed with hot water is known as what ?	27	27
+5acd645f07355d001abf4075	what does sparging convert starches into ?	78	78
+5acd6f8707355d001abf421a	what else was elder the adalhard known as ?	27	29
+5acd78c507355d001abf43b6	what are made with slow fermenting malts ?	0	2
+5acd955807355d001abf4796	what are various beers made from in ethiopia ?	28	30
+5acd67db07355d001abf40e4	what increases the longer the starches are boiled ?	121	121
+5acd6d7607355d001abf41a9	what is the most common enzyme source used in beer ?	33	34
+5acd79f607355d001abf43ec	what does avb stand for ?	7	9
+5acd935407355d001abf477a	what is the study of beer and food called ?	41	41
+5acd935407355d001abf4778	what is the most popular drink in society ?	4	4
+5acd935407355d001abf4779	what new profession deals with food ?	90	91
+5acd5daa07355d001abf3f0e	what involves the fermentation of hops ?	35	35
+5acd147407355d001abf33b1	what is the prayer in the code of hammurabi ?	150	153
+5acd147407355d001abf33ae	what is the oldest drink in the world ?	0	0
+5acd201807355d001abf35e0	what was a carolingian abbot credited for adding to beer in 1067 ?	81	81
+5acd201807355d001abf35e1	in which year did the germanic and celtic tribes add hops to beer ?	95	95
+5acd201807355d001abf35e2	what town first added hops to beer ?	108	108
+5acd76e807355d001abf4375	what is the latin word for barley ?	110	110
+5acd7ecf07355d001abf446d	what was the strongest beer in the 1949 guinness book of world records ?	15	16
+5a10f33e06e79900185c347f	what does digi monster stand for ?	8	9
+5a10f78906e79900185c3496	what were becoming unpopular in japan ?	116	117
+5a10f78906e79900185c3494	many of the most popular digimon on ?	77	77
+5a10f99606e79900185c349d	did you birds hatched from what ?	9	11
+5a10f99606e79900185c349e	what kind of egg do digimon use to evolve mentally ?	56	56
+5a10fb8c06e79900185c34a8	what happens when a digimon receives a nonfatal wound ?	51	56
+5a10fcfd06e79900185c34b1	what companies were responsible for the re - release digimon	23	29
+5a10fcfd06e79900185c34b2	what was originally intended for mainly girls ?	8	9
+5a10ff0106e79900185c34b9	what is a manifestation of a world far from work ?	20	20
+5a1100a806e79900185c34c3	how many series of aired as of 2001 ?	7	8
+5a1106b606e79900185c34ec	what were special humans called ?	58	59
+5a1106b606e79900185c34eb	what device transformed regular digimon into special digimon ?	42	44
+5a1108e506e79900185c34fd	wendy did a fifth season begin airing in the united states ?	57	60
+5a1109b106e79900185c3506	when was the third season aired ?	38	46
+5a1109b106e79900185c3507	what lies between the digital world ?	112	112
+5a11111906e79900185c351f	what words that replicas of adventure 02 ?	51	52
+5a11120a06e79900185c3527	over the first two japanese games released ?	74	79
+5a11120a06e79900185c3525	what did the digimon series only have a few of ?	8	9
+5a10c34906e79900185c33e3	what kind of organization are all for profit ?	1	3
+5a10c42a06e79900185c33e8	what are some services not provided by an isp ?	7	24
+5a10c42a06e79900185c33e7	what kind of organization blocks internet access	5	5
+5a10c72c06e79900185c33ed	when was the internet further restricted ?	43	43
+5a10c96506e79900185c33f5	what was the name of the first private isp ?	20	21
+5a10c96506e79900185c33f3	where was the first isp s established in 1999 ?	9	13
+5a10d02306e79900185c33fb	what did the implementation of net neutrality permit ?	27	37
+5a10d02306e79900185c33fc	what was net neutrality a solution to ?	56	57
+5a10d81806e79900185c3412	what old technology was unable to be used to connect to the internet ?	28	29
+5a10d8b706e79900185c341a	what is using fiber optics to providers called ?	54	57
+5a10dce006e79900185c342f	what is used by organizations that depend on others to provide mail services ?	77	80
+5a10dd9906e79900185c3436	who provides physical servers to customers	0	2
+5a10dd9906e79900185c3437	who provides off - line storage services	0	2
+5a10e0bf06e79900185c3443	who provides minimal amounts of bandwidth for connecting isps ?	107	108
+5a10eb6d06e79900185c3478	what do isps remove from their networks to discourage intelligence agencies ?	112	120
+5ace3b1932bba1001ae49fa0	what is the total area of the cambodian asphalt deposits ?	52	56
+5ace3b1932bba1001ae49f9f	where does most of the canadian oil supply end up ?	157	158
+5ace5e3b32bba1001ae4a42c	what group was the first to use shell beads ?	13	14
+5ace6ecd32bba1001ae4a699	how many bitumen upgraders produce synthetic crude oil in edmonton ?	3	3
+5ace78f932bba1001ae4a775	due to what kind of concerns is diesel oil now used as a release agent ?	122	122
+5ace7b5932bba1001ae4a7b5	the last known mentions of albanian bitumen appeared in what year ?	33	33
+5ace7b5932bba1001ae4a7b8	when did simsa receive the industrial scale ?	65	65
+5ace820332bba1001ae4a8c3	from where is the word limestone derived ?	7	9
+5ace2eff32bba1001ae49d15	what is the substance usually called outside of the la brea tar pits ?	54	54
+5ace2eff32bba1001ae49d11	the term asphalt is often preferred by who ?	56	56
+5ace3a4132bba1001ae49f5f	besides heat , what is required to form besides pressure , what is required to form mud ? ?	82	82
+5ace3a4132bba1001ae49f5d	what product of heat and pressure does the formation of asphalt and microscopic algae produce ?	102	102
+5ace540432bba1001ae4a2c3	located in the mcmurray formation , what is the smallest deposit of natural bitumen known as ?	12	14
+5ace5ac532bba1001ae4a399	on what day did claridge 's patent # 5309 patent the use of seyssel asphalt ?	25	27
+5ace5ac532bba1001ae4a39b	when was the second british patent for using bitumen issued ?	21	21
+5ace5c1f32bba1001ae4a3db	in what year was asphalt used for things other than bathing ?	1	1
+5ace5c1f32bba1001ae4a3dd	why was asphalt used in the flooring of patents ?	31	32
+5ace5c1f32bba1001ae4a3dc	in what places were asphalt used as soundproofing ?	43	45
+5ace5c1f32bba1001ae4a3de	what were often granted in britain , but denied in france ?	82	82
+5ace60db32bba1001ae4a49e	in what year did karl clark use bitumen to pave 600 feet of road in edmonton ?	58	58
+5ace7a3732bba1001ae4a785	how much area does the smallest supply of natural bitumen , in canada , cover ?	47	51
+5ace73cf32bba1001ae4a71f	what lacquer is used to make the color lighter ?	36	37
+5ace73cf32bba1001ae4a71b	what accounts for nearly all the remaining graffiti consumption ?	0	1
+5ace831032bba1001ae4a8f2	what does the german word cwidu mean ?	103	103
+5ace831032bba1001ae4a8ef	where did the expression " french " originate ?	8	8
+5ace32ce32bba1001ae49dc1	which similar oil can asphalt be confused with ?	9	10
+5ace57a932bba1001ae4a332	in which year did an edition of parisian magazine cite an early use of asphalt in france ?	58	58
+5ace5fe232bba1001ae4a46f	which country has north america 's largest deposit of naturally occurring bitumen ?	0	0
+5ace638232bba1001ae4a535	what percentage of concrete is in mastic asphalt ?	33	36
+5ace7c0d32bba1001ae4a7cb	what may be mixed with cold bitumen in tanks ?	0	0
+5ace83b532bba1001ae4a90e	which is the preferred geographical term for natural deposits ?	215	215
+5ace595232bba1001ae4a367	what was the nemesis of many singers during the 19th century ?	0	0
+5ace5ccb32bba1001ae4a403	in what year was the liquidation of the patent clarmac company ?	88	88
+5ace61a732bba1001ae4a4d8	what percentage of bitumen consumption in europe makes up that used for concrete road surfaces ?	19	20
+5ace76bb32bba1001ae4a758	asphalt is considered material with a freezing point below how many degrees ?	44	46
+5ace7ab232bba1001ae4a7a5	the veins are found in the form of what ?	30	31
+5a5a41499c0277001abe70d4	what was bon jovi 's second album ?	6	8
+5a5a41499c0277001abe70d8	which album did van halen release in 1986 which was the second album to feature sammy hagar as lead vocal singer ?	180	180
+5a5a41499c0277001abe70d7	what album by europe reached number nine in ten countries besides the us ?	113	115
+5a5a4e3b9c0277001abe7108	what ac / dc album in 1995 became a muti - platinum seller ?	106	106
+5a5a4e3b9c0277001abe7109	which bon jovi 1995 album was a bigger hit in the us than in europe ?	167	168
+5a5a21649c0277001abe7052	what type of music known as the roots of hard rock was started in the 1940s ?	14	15
+5a5a28d59c0277001abe7084	what rolling stones album got rave reviews in 1972 ?	13	17
+5a5a35509c0277001abe70b8	who quit the band led zeppelin to move to another band ?	37	38
+5a5a35509c0277001abe70ba	what solo album did randy rhoads release in 1980 ?	156	158
+5a5a45ab9c0277001abe70eb	which def leppard 1987 album held the number one spot in the british charts for five weeks ?	119	119
+5a5a52999c0277001abe711c	what album did ac / dc produce in 2007 that displayed their hard riffing tradition ?	59	61
+5a5a52999c0277001abe711a	what type of hard rock music is based in texas and california ?	3	5
+5a5a2b609c0277001abe7090	what 1974 album by bad company was an international flop ?	47	48
+5a5a3dd89c0277001abe70c1	what is the first album released by def leppard ?	19	23
+5a5a54799c0277001abe7125	what year did post - grunge bands began to become popular ?	21	21
+5a5a20ef9c0277001abe7040	which bass drum is used to drive rhythms ?	62	62
+5a5a20ef9c0277001abe703e	what instrument is often used in soft rock music ?	12	14
+5a5a219c9c0277001abe7068	which artist combined blues rock and psychedelia leaving out elements of jazz ?	50	51
+5a5a2ec89c0277001abe7098	what british born singer achieved success with the album school 's out ?	9	10
+5a5a3f9b9c0277001abe70cb	what deep purple album reached number five on the us music charts ?	33	34
+5a5a4cb69c0277001abe70fd	what album by van halen released in 1995 did not include sammy hagar on vocals ?	88	88
+5a5a4cb69c0277001abe70fe	who replaced was the replacement for david lee roth after he was fired ?	122	123
+5a5a21359c0277001abe704b	what band had a 1960s break through with an emphasis on darker themes ?	90	91
+5a5a21359c0277001abe7048	which term was never used interchangeably with hard rock ?	7	8
+5a5a50d49c0277001abe7114	what guns n ' roses album that was released in 2008 was there most successful album to date ?	298	299
+5a5a50d49c0277001abe7110	which band beside bon jovi were two rock bands that had very little commercial success in the 1970s and 1980s ?	48	50
+5a5cb75b5e8782001a9d5d6e	what is the theft or damage to hardware or software ?	0	1
+5a5cb75b5e8782001a9d5d72	why would it security partake in malpractice ?	83	92
+5a5cb8315e8782001a9d5d7b	what is an ip address ?	87	90
+5a5cd2285e8782001a9d5db8	what can voice recognition not be used for ?	157	157
+5a555e72134fea001a0e1a5f	what is needed to catch these data stealing criminals ?	87	89
+5a5cd4d65e8782001a9d5dd3	what is the name of the company that has lost more through electronic theft ?	27	27
+5a5cd4d65e8782001a9d5dd4	what do most companies no longer rely on ?	70	77
+5a555e72134fea001a0e1a5e	what do companies have to worry about least ?	48	51
+5a5cd95a5e8782001a9d5de8	what is the name of a system that meets the eal4 standard ?	116	118
+5a5cba215e8782001a9d5d90	what program does the fbi use to eavesdrop on closed systems ?	85	85
+5a5cba215e8782001a9d5d8d	what is a conversation between hosts on a network called ?	0	0
+5a554ade134fea001a0e1a19	who uses the programs carnivore and naruslnsight ?	32	35
+5a5cdafc5e8782001a9d5df2	what prevents acls from giving access to only one person ?	101	101
+5a5ce5af5e8782001a9d5e05	when was the rome laboratory created ?	1	1
+5a5ce7425e8782001a9d5e19	when was ashley madison taken down ?	1	3
+5a5ce7425e8782001a9d5e1a	when was established man taken offline ?	189	193
+5a5cf3d75e8782001a9d5e30	where is clarke from ?	123	124
+5a5cf3d75e8782001a9d5e2e	where is government intervention most common ?	36	36
+5a5cfad65e8782001a9d5e3a	when was the speech from the throne ?	1	4
+5a5cc7fa5e8782001a9d5da2	when was the stuxnet worm created ?	90	90
+5a555ca9134fea001a0e1a52	computer security is mostly comprised of what ?	6	9
+5a5cd2f25e8782001a9d5dc1	what was the minimum estimate of losses due to security breaches in the us in 2003 ?	75	77
+5a5cd75a5e8782001a9d5ddc	when are microchip vulnerabilities removed ?	16	19
+5a5cd75a5e8782001a9d5ddf	what is required to compromise a software - only computer ?	76	83
+5a5cfd075e8782001a9d5e43	who controls canada 's infrastructure ?	11	11
+5a5d04505e8782001a9d5e66	who coined the word " cyberwarfare " ?	66	67
+5a5cff985e8782001a9d5e4e	when is the international cyber security awareness month ?	133	133
+5a5cff985e8782001a9d5e4b	how expensive is the getcybersafe portal ?	64	68
+5a5cff985e8782001a9d5e4a	when was stop . think . connect created ?	1	4
+5a5cbc6f5e8782001a9d5d96	what is avoiding a ui redress attack called ?	0	0
+5a5cbc6f5e8782001a9d5d9a	where is a user redirected to after putting in their password ?	78	81
+5a5ce0995e8782001a9d5dfa	how many computers began to slow down on nov . 2 , 1988 ?	4	6
+5a557057134fea001a0e1a85	who created the first computer worm ?	78	83
+5a5ce0995e8782001a9d5dfc	when was the computer worm caught ?	25	28
+5a55742a134fea001a0e1a97	what was the main breach ?	63	65
+5a557a6e134fea001a0e1add	why does ncaz work closely with bsi ?	123	131
+5a5d037f5e8782001a9d5e5d	when did the incident in stuxnet happen ?	117	120
+5a5e19bf5bc9f4001a75ae21	how many darsanas are there ?	27	27
+5a5e19bf5bc9f4001a75ae22	what philosophy does astika reject ?	62	62
+5a5e3ace5bc9f4001a75ae70	which school rejects naturalism ?	36	36
+5a5e3ace5bc9f4001a75ae6f	how many subschools does hindu philosophy have ?	20	20
+5a5e42ab5bc9f4001a75ae93	what school rejects dualism ?	0	0
+5a5e43bf5bc9f4001a75ae9d	how many types of sattva are there ?	23	23
+5a5e43bf5bc9f4001a75aea0	the fact that samkhya denies the existence of a soul makes it what ?	146	150
+5a5e44e15bc9f4001a75aeab	what does yoga mean ?	57	58
+5a5e44e15bc9f4001a75aea7	what philosophy is yoga antithetical to ?	33	33
+5a5e45695bc9f4001a75aeb1	what is moksha ?	12	12
+5a5e45695bc9f4001a75aeb5	what school is yoga most dissimilar to ?	51	52
+5a5e497a5bc9f4001a75aebb	what theory postulates that objects can not be reduced ?	1	1
+5a5e497a5bc9f4001a75aebd	who coined the term paramanu ?	95	96
+5a5e497a5bc9f4001a75aebc	what does vaisesika mean ?	32	32
+5a5e50095bc9f4001a75aec5	how many realities are there ?	17	17
+5a5e50f45bc9f4001a75aedb	what philosophy produces human suffering ?	37	37
+5a5e51b25bc9f4001a75aee5	how many mimamsa subschools are not defined by epistemology ?	4	4
+5a5e529b5bc9f4001a75aef5	mimamsa rejected the epistemology and metaphysics of what ?	51	51
+5a5e5a285bc9f4001a75af1e	which sutras did the vedanta reject ?	9	11
+5a5e5ad15bc9f4001a75af28	which vedic did vedanta ignore ?	22	22
+5a5e5b755bc9f4001a75af39	what means two ?	0	0
+5a5e5d875bc9f4001a75af5b	who did advaitins believe was a personification of brahman ?	121	121
+5a5e5d875bc9f4001a75af57	who opposed visistadvaita ?	0	0
+5a5e5d875bc9f4001a75af5a	what was the philosophy of qualified dualism ?	16	16
+5a5e608c5bc9f4001a75af8a	who is not worshiped in dvaitadvaita ?	104	104
+5a5e61305bc9f4001a75af92	when did shaivism first begin ?	15	18
+5a5e61305bc9f4001a75af95	who wrote the svetasvatara upanishad ?	69	69
+5a5e61eb5bc9f4001a75af9f	what is the youngest major shaiva school ?	0	1
+5a5e61eb5bc9f4001a75afa2	when was the pasupata shaivism school started ?	30	32
+5a5e61eb5bc9f4001a75afa0	who created pasupata shaivism ?	27	27
+5a3c58adcc5d22001a521d6b	what gender do theologians usually use to define human biological gender ?	145	152
+5a3c5cd1cc5d22001a521d8b	what does argenteus mean ?	72	80
+5a3c5cd1cc5d22001a521d89	where is the codex form of the word from ?	35	40
+5a3c6218cc5d22001a521d95	what proper name is god given in midian ?	86	86
+5a3c6b53cc5d22001a521da9	what do hindus compare the divinity of jesus to ?	168	168
+5a3c70adcc5d22001a521db1	what does the universe act through ?	45	51
+5a3c7309cc5d22001a521dbc	what does a pandeistic god not do ?	36	41
+5a3c7309cc5d22001a521dbe	does the universe answer prayers in pantheism ?	36	38
+5a3c7309cc5d22001a521dbb	what is the view of pantheism about god abandoning his creation ?	88	97
+5a3c75f8cc5d22001a521dc8	what is another name for vaishnavism ?	75	76
+5a3c75f8cc5d22001a521dc6	who is the founder of the liberal catholic church ?	99	102
+5a3c7e32cc5d22001a521ddb	what did richard dawkins believe could disprove the existence of a creator ?	85	92
+5a3c7e32cc5d22001a521dd9	what grounds did carl sagan use to explain god 's existence and how it would change the universe ?	23	49
+5a3c7fdccc5d22001a521de2	what is the name of the book by michael nikoletseas ?	13	15
+5a3c7fdccc5d22001a521de4	what is leonard mlodinow 's profession ?	78	78
+5a3c823dcc5d22001a521ded	what is one of the best known traits of jurgensen 's model ?	30	37
+5a3c86ebcc5d22001a521df6	what concept did matt rossano suggest earlier than others ?	12	23
+5a3c88d4cc5d22001a521e04	who 's idea about god did st . anselm carry to its extreme ?	25	26
+5a3c88d4cc5d22001a521e01	what does st . anselm used to prove god 's existence ?	101	106
+5a3c8e8fcc5d22001a521e0e	who uses cosmology , evolutionary biology and neuroscience to prove god is omniscient ?	18	24
+5a3c90f9cc5d22001a521e15	how many arguments about god 's power prove he exists ?	139	139
+5a3c96edcc5d22001a521e21	what attributes do different cultures have ?	17	30
+5a3c96edcc5d22001a521e20	how many attributes of mercy are in islam ?	70	70
+5a3c9cdccc5d22001a521e34	what is the purpose of life for christians ?	17	19
+5a3c9ecfcc5d22001a521e3d	what is an example of syncretism in christianity ?	117	117
+5a3ca628cc5d22001a521e4a	what were philosophical debates about among free agents ?	38	40
+5a3cb166cc5d22001a521e54	what three philosophers believed that god can be conceptualized in the integrative level theory ?	21	28
+5ad23dbbd7d075001a4288a0	what system of the body is not related to emotion 's physiology ?	38	38
+5ad23dbbd7d075001a4288a2	what type of people show their emotions ?	77	77
+5ad23dbbd7d075001a4288a1	what sorts of people are less likely to be emotionally expressive ?	63	63
+5ad24432d7d075001a428a47	how many nonmain emotions exist in plutchik 's theory ?	19	19
+5ad24432d7d075001a428a46	what is n't the name of the theory plutchik created ?	13	15
+5ad24432d7d075001a428a49	what does plutchik see as the negative equivalent of disgust ?	38	38
+5ad24432d7d075001a428a48	in plutchik 's theory , what emotion is the same as anticipation ?	109	109
+5ad245c7d7d075001a428ab0	what was the name of the book that darwin drew on emotions ?	18	26
+5ad245c7d7d075001a428ab1	along with survival , what did darwin not see as the role of emotions in humans ?	40	40
+5ad245c7d7d075001a428ab2	through what process did darwin not believe emotions developed ?	57	58
+5ad24701d7d075001a428b1b	what sort of response does n't the stimulus cause ?	24	24
+5ad24701d7d075001a428b1d	in the james - lange theory , what does n't cause emotions ?	120	121
+5ad24701d7d075001a428b1a	in this theory , what action does n't evoke an emotion ?	16	16
+5ad24963d7d075001a428ba0	in lazarus ' view , what could n't the cognitive activity be if it was not conscious ?	73	73
+5ad24963d7d075001a428b9f	along with evaluations and thoughts , what cognitive activity did theorists not believe to be required for emotion ?	22	22
+5ad24963d7d075001a428b9e	who argued that emotions do n't come from cognitive intentionality ?	46	47
+5ad2531dd7d075001a428d15	what book by prinz did n't defend the perceptual theory ?	164	165
+5ad2531dd7d075001a428d16	what book on the perceptual theory was n't written by james laird ?	173	173
+5ad25f6bd7d075001a428f7e	what field of study does n't study the organizational role of emotions ?	84	85
+5ad25f6bd7d075001a428f7c	what discipline does n't examine the role emotions play in culture ?	19	19
+5ad26126d7d075001a429005	aside from decreased perspiration , what is a physiological change related to emotions ?	48	51
+5ad26126d7d075001a429006	along with smiling and frowning , what is not an example of a facial or body movement caused by emotion ?	69	70
+5ad26126d7d075001a429004	along with anger , pride and happiness , what is n't an example of an emotional label ?	32	32
+5ad26126d7d075001a429007	who did n't develop a comprehensive theory related to human emotional arousal ?	91	92
+5ad2790bd7d075001a4295a2	what was the age of carl lange ?	24	24
+5ad2790bd7d075001a4295a0	along with william james , who was n't an influential 19th century theorist ?	19	20
+5ad23e52d7d075001a4288c0	along with the experience , function and origin of emotion , what aspect of emotion does current research not attempt to explain ?	43	43
+5ad23e52d7d075001a4288bf	besides dopamine , noradrenaline , serotonin , cortisol and oxytocin , what neurotransmitter or hormone do not influence emotion ?	117	117
+5ad23e52d7d075001a4288be	along with psychology , neuroscience , endocrinology , medicine , history and sociology , what field has disengaged in research on emotion ?	30	31
+5ad2438fd7d075001a428a01	what other traits are emotional dispositions not similar to ?	18	19
+5ad2438fd7d075001a428a02	what category is not defined to contain pleasure , pain , motivation , moods and dispositions ?	68	69
+5ad2438fd7d075001a428a00	what are unemotional episodes defined in contrast to ?	9	10
+5ad244e8d7d075001a428a7b	at what point does psychological construction theory believe the components of a non - emotion are put together ?	86	91
+5ad244e8d7d075001a428a7c	what is an example of an emotion that , under psychological construction theory , is the same from one case to another ?	109	109
+5ad244e8d7d075001a428a7a	what theory sees an non - emotional episode as consisting of components ?	18	19
+5ad2474fd7d075001a428b2c	who argued that physiological responses were sufficient to explain emotional experiences ?	0	2
+5ad2474fd7d075001a428b2e	why did cannon believe that physiological responses were n't insufficient cause for emotions ?	34	38
+5ad254ecd7d075001a428d2c	who did n't develop a situated perspective on emotion along with andrea scarantino ?	8	11
+5ad254ecd7d075001a428d2f	along with infant and animal emotion , what did scarantino and griffiths believe the situated perspective could not help to explain ?	198	198
+5ad254ecd7d075001a428d2d	what factors did the situated perspective believe not to be most important ?	20	20
+5ad256acd7d075001a428d78	along with the cingulate cortex and hippocampi , what structure is not a notable part of the limbic system ?	75	75
+5ad256acd7d075001a428d76	when did broca publish his non - pioneering work ?	38	38
+5ad256acd7d075001a428d77	who published a work in 1937 on the relationship between non - emotional and the limbic system ?	41	41
+5ad2600bd7d075001a428fb9	along with laboratory work , what does n't an ethologist engage in ?	160	161
+5ad2600bd7d075001a428fb6	along with the philosophies of music and art , what field of philosophy does n't study emotions ?	12	12
+5ad2600bd7d075001a428fb7	along with drama and melodrama , in what filmmaking genre does emotion not play an important role ?	106	106
+5ad2600bd7d075001a428fb8	of what discipline is ethology not a branch ?	142	142
+5ad261a2d7d075001a429040	who did n't discuss the idea of a collective effervescence ?	9	10
+5ad261a2d7d075001a429042	durkheim saw collective effervescence in what australian non - aboriginal activity ?	30	31
+5ad261a2d7d075001a429041	what society was studied to describe the notion of collective non - effervescence ?	33	35
+5ad27982d7d075001a4295b2	who wrote ' what is n't an emotion ? ' ?	130	133
+5ad27982d7d075001a4295b3	who published what is n't an emotion ? : classic and contemporary readings ?	168	168
+5ad23e93d7d075001a4288d0	what does emouvoir mean in italian ?	23	25
+5ad23e93d7d075001a4288ce	when did the word emotion leave the english language ?	8	8
+5ad23e93d7d075001a4288d2	along with anxiety , what is not an example of directionless emotion ?	123	123
+5ad23e93d7d075001a4288cf	from what english word is emotion derived ?	18	18
+5ad23e93d7d075001a4288d1	prior to the introduction of the word emotion , what word was n't used in its place ?	38	38
+5ad247a4d7d075001a428b3b	who argued that an unemotional stimulus triggered experiential and physiological responses to emotions at the same time ?	45	45
+5ad247a4d7d075001a428b3d	along with sensory and motor information , what information had to pass through the diencephalon after being processed ?	20	20
+5ad247a4d7d075001a428b3c	what creatures did bard never experiment on ?	10	10
+5ad24cbcd7d075001a428c04	what does solomon believe emotions not to be ?	61	61
+5ad24cbcd7d075001a428c03	in what year was the passions , emotions and the meaning of life rejected ?	53	53
+5ad24cbcd7d075001a428c05	whose theory did n't discuss action tendencies ?	115	116
+5ad24cbcd7d075001a428c06	the idea that judgment can be identified with emotion is an objection to what school of thought ?	84	84
+5ad24cbcd7d075001a428c02	who sang the passions , emotions and the meaning of life ?	35	38
+5ad255afd7d075001a428d46	who rejected the research on the role of emotional phenotype temperaments on social connectedness ?	64	65
+5ad255afd7d075001a428d48	what percentage of similarity is there between the genetic material of humans and the genetic material of chimpanzees ?	173	176
+5ad255afd7d075001a428d49	how many hundred years ago did the evolution of chimpanzees and humans diverge ?	157	157
+5ad23ce5d7d075001a42887c	along with mood , temperament , disposition and motivation , what is emotion never tied to ?	51	51
+5ad24351d7d075001a4289e4	what are intense feelings that lack a contextual stimulus called ?	117	117
+5ad24351d7d075001a4289e2	what is not an example of an extreme form of fear ?	77	77
+5ad24351d7d075001a4289e0	who described the concept of a non - continuum of intensity ?	54	57
+5ad24351d7d075001a4289e1	what is michael graham 's interest ?	53	53
+5ad24351d7d075001a4289e3	what would be an example of middle shame ?	84	84
+5ad243b2d7d075001a428a1b	how many non - basic emotions did ekman recognize ?	102	102
+5ad243b2d7d075001a428a1a	who has agreed that emotions are discrete ?	6	7
+5ad243b2d7d075001a428a1c	along with anger , disgust , happiness , sadness and fear , what is n't one of ekman 's basic emotions ?	117	117
+5ad24569d7d075001a428a9b	what thinker believed that emotions were n't necessary for virtue ?	26	26
+5ad24569d7d075001a428a9d	who was n't a notable scholastic thinker ?	69	70
+5ad24569d7d075001a428a9a	what school of thought saw emotion as not an impediment to virtue ?	9	9
+5ad24569d7d075001a428a9c	what did the aristotelians not call emotions ?	45	45
+5ad2469cd7d075001a428b00	who wrote that exciting facts do n't lead to emotions ?	4	5
+5ad2469cd7d075001a428b03	who did n't develop a theory similar to that of james ?	83	84
+5ad2469cd7d075001a428b02	what did james believe emotion was n't synonymous with ?	114	118
+5ad26049d7d075001a428fbf	according to the constructivists , what is n't an example of a learned meta - emotion ?	80	80
+5ad26049d7d075001a428fbe	what historical school claims that sentiments and meta - emotions ca n't be learned ?	64	64
+5ad26049d7d075001a428fc1	along with class and race , what is n't regarded as an essential category of historical analysis ?	32	32
+5ad26049d7d075001a428fc0	along with germany , england , spain and australia , where has n't a research center on the history of emotions recently opened ?	190	190
+5ad248ded7d075001a428b7c	what was n't the nationality of gregorio maranon ?	11	11
+5ad248ded7d075001a428b7a	whose work did n't the theory of stanley schachter build on ?	14	15
+5ad248ded7d075001a428b7d	who was a notable teacher of stanley schachter ?	199	200
+5ad248ded7d075001a428b7b	what did gregorio maranon not inject his patients with ?	21	21
+5ad261d7d7d075001a429070	along with cooley , from whose work did scheff not derive social bond theory ?	108	108
+5ad261d7d7d075001a42906f	who rejected the social bond theory ?	114	114
+5ad261d7d7d075001a42906c	in what decade did n't sociologists focus on the social relevance of emotion ?	2	2
+5ad261d7d7d075001a42906d	what emotions did n't cooley regard as of paramount social importance ?	26	28
+5ad261d7d7d075001a42906e	who studied rage and shame cycles in un - married couples ?	88	88
+5ad2787cd7d075001a42956c	rational emotive behavior therapy is not an approach used by what psychotherapy schools ?	97	99
+5ad2787cd7d075001a42956a	what is the term for the strategies not used by people to influence their emotional experiences ?	0	1
+5ad2787cd7d075001a42956d	what sort of therapy might not examine emotions based on components of facial expressions ?	129	130
+5ad255efd7d075001a428d5b	reactive responses are n't present in the brains of what animals ?	44	44
+5ad255efd7d075001a428d5a	what chemicals do not mediate emotions ?	101	101
+5ad255efd7d075001a428d59	what classification of chemicals do dopamine , serotonin and noradrenaline not belong to ?	60	60
+5ad257fbd7d075001a428db5	what is affective neuroscience not a sub - field of ?	92	92
+5ad257fbd7d075001a428db3	what fields studies the role of emotions in the treatment of non - human mental disorders ?	28	28
+5ad257fbd7d075001a428db2	what discipline does n't study the role of emotions in neural mechanisms ?	10	11
+5ad257fbd7d075001a428db6	what field does n't study the relationship between emotion and learning ?	142	142
+5ad257fbd7d075001a428db4	what profession studies the role of emotions in providing non - holistic health care ?	48	48
+5ad276ded7d075001a429534	who rejected the interaction ritual theory ?	5	6
+5ad276ded7d075001a429538	what is the term for the energy not generated during group gatherings , such as totemic rituals ?	90	91
+5ad276ded7d075001a429535	from what work of durkheim 's was n't interaction ritual theory derived ?	22	23
+5ad276ded7d075001a429537	what is the term for a feeling of confidence to not take action ?	64	65
+5ad276ded7d075001a429536	in addition to durkheim , whose work did n't influence the development of interaction ritual theory ?	28	28
+5ad278d6d7d075001a429590	in affective computing , what devices are n't used to collect data about the physical state of a user ?	124	125
+5ad278d6d7d075001a42958f	what is n't the foundational document of affective computing ?	110	114
+5ad278d6d7d075001a429591	how does emotional speech processing determine a user 's non - emotional state ?	195	197
+5ad23e14d7d075001a4288ae	who discussed emotions out of the context of expressive body actions and cultural labels ?	128	129
+5ad23e14d7d075001a4288aa	along with subjective experience , cognitive processes , expressive behavior and psychophysiological changes , what is another notable unemotional component ?	20	21
+5ad24373d7d075001a4289f4	what processes do n't drive the other components processing model processes ?	49	49
+5ad24373d7d075001a4289f3	how many unimportant emotional elements are present in the components processing model ?	9	9
+5ad24373d7d075001a4289f2	what model of emotion was undeveloped by scherer ?	3	5
+5ad24477d7d075001a428a61	what is the term for the degree to which an non - emotional experience feels positive or negative ?	57	57
+5ad24477d7d075001a428a5e	what do psychologists use to non - visually map emotional experiences ?	4	5
+5ad24477d7d075001a428a5f	along with valence , what is the other of the three dimensions used to map emotional experiences ?	68	68
+5ad24477d7d075001a428a60	what is n't the term for the feeling of energy or enervation created by an emotional experience ?	68	68
+5ad24633d7d075001a428add	what technology has disallowed for research into the earlier - evolved parts of the brain ?	103	103
+5ad24633d7d075001a428ade	along with ledoux , who was n't a notable neurological brain researcher ?	133	134
+5ad24633d7d075001a428adf	in what decade did damasio and ledoux do unnotable work ?	126	126
+5ad24633d7d075001a428adc	who argued against emotional responses compete with instinct and reason ?	70	73
+5ad253a8d7d075001a428d1c	along with cropanzano , who did not develop a communication - based theory of emotional experience ?	9	12
+5ad253a8d7d075001a428d1e	what context did the theory of weiss and cropanzano not pay any attention to ?	36	36
+5ad253a8d7d075001a428d1d	when did weiss and cropanzano reject their work ?	17	17
+5ad253a8d7d075001a428d1f	who did beal draw " reflections on affective events theory " with ?	115	118
+5ad25680d7d075001a428d6f	what developed from the mammalian sonic pathways ?	121	122
+5ad25680d7d075001a428d6c	what parts of reptiles do n't respond to sensory cues ?	1	2
+5ad25680d7d075001a428d6d	what is the principal sense of morning - active mammals ?	41	41
+5ad25680d7d075001a428d70	how do the olfactory lobes of mammals not compare in size to those of reptiles ?	100	100
+5ad25680d7d075001a428d6e	why were early mammals active in the morning ?	86	87
+5ad257a0d7d075001a428d90	what model did not describe the opposite of approach as moving away ?	23	24
+5ad257a0d7d075001a428d91	what model described the same approach as unmoving but with resistance and strength ?	35	36
+5ad257a0d7d075001a428d93	along with behavioral inhibition , research on what trait did not result in support for the action tendency model ?	69	69
+5ad25fcbd7d075001a428f96	in what economics sub - field are emotions not discussed ?	29	29
+5ad25fcbd7d075001a428f99	along with sociology and behavioral sciences , what discipline does not inform the field of criminology ?	71	71
+5ad25fcbd7d075001a428f98	along with criminal law , what facet of law does n't consider evidence related to emotion ?	119	120
+5ad2616cd7d075001a429030	what emotion do political campaigns not appeal to in regard to terrorism ?	174	174
+5ad2616cd7d075001a42902c	what emotion do many cultures encourage in women ?	36	36
+5ad2616cd7d075001a42902d	some cultures attempt to regulate what emotion in women ?	48	48
+5ad2616cd7d075001a42902e	the open expression of what emotion is generally accepted in most cultures ?	112	112
+5ad2616cd7d075001a42902f	what social institution is not associated with the emotion of love ?	142	142
+5a518f14b308da001a5a22fc	what islands are not culturally or geographically part of southeast asia ?	15	23
+5a5191fcb308da001a5a2303	who moved into the area 12 , 000 years ago ?	21	22
+5a5193acb308da001a5a230e	what was well established by the 1st century bc ?	75	77
+5a5193acb308da001a5a230d	who did the chine 's come to the archipelago to trade with ?	41	42
+5a5196a9b308da001a5a2315	what ruler came to power in 1389 ?	21	22
+5a5196a9b308da001a5a2313	what kingdom was established in 1500 ?	0	2
+5a519a6bb308da001a5a2320	what kig converted from islam in 1267 ?	82	84
+5a519a6bb308da001a5a2321	what islamic scholar died in 1908 ?	166	166
+5a519ec0b308da001a5a2327	what ruler regected islam in the 15th century ?	161	162
+5a519ec0b308da001a5a2328	where did yemen traders come from ?	59	64
+5a51a822b308da001a5a2332	who did japan defeat in the south - east asian theater ?	77	79
+5a51a822b308da001a5a2330	who invaded the western colonies during ww i ?	5	6
+5a51b1a6b308da001a5a2337	what is the largest country in asia ?	0	0
+5a51b646b308da001a5a2349	what seperates asian andaustralian species ?	7	8
+5a51b7a5b308da001a5a2353	where did conservation international say the lowest biodiversity is ?	45	46
+5a51c12fb308da001a5a2375	what country is developing more agriculture ?	75	75
+5a51c265b308da001a5a237b	who discourages tourism in ordr to preserve cultural diversity ?	20	20
+5a51c418b308da001a5a2386	what is the least densly populated country of southeast asia ?	62	62
+5a51c418b308da001a5a2385	where in indonesia is the population 625 million ?	50	50
+5a51c529b308da001a5a2390	where are the malays and chinese a minority ?	81	81
+5a51c727b308da001a5a2397	wwhat southeast asian country has the smallest muslim population ?	40	40
+5a51c727b308da001a5a2395	what is the least practiced religion in southeast asia ?	0	0
+5a51c8ecb308da001a5a239e	where is ancestor whorship predominant ?	216	216
+5a51cb85b308da001a5a23af	what dance is known for little hand movement ?	88	89
+5a51cc8fb308da001a5a23b5	what is currently a favorite form of entertainment ?	0	3
+5a51ced4b308da001a5a23c9	what direction was the writing on copper scrolls ?	31	31
+5a51ced4b308da001a5a23c7	what alphabets where domenent after the arrival of europeans ?	59	59
+5ad4a653ba00c4001a268ec1	what is spielberg 's most critically acclaimed film ?	54	56
+5ad4a653ba00c4001a268ec2	what film of spielberg 's was his first to address humanistic issues ?	65	65
+5ad4a9ee5b96ef001a109d4a	what kind of prejudice did spielberg have to deal with while in elementary school ?	103	105
+5ad4a9ee5b96ef001a109d49	how many bloody noses from fighting did spielberg get in middle school ?	122	122
+5ad4a9ee5b96ef001a109d46	how many bloody noses did spielberg get from fighting while in elementary school ?	122	122
+5ad4ac025b96ef001a109d6f	how much did escape to nowhere cost to make ?	188	189
+5ad4ad395b96ef001a109d85	who offered spielberg an intern job at universal studios ?	56	57
+5ad4aeca5b96ef001a109d8a	in what year did spielberg direct an episode of the name of the game ?	18	18
+5ad4b0075b96ef001a109d98	who starred as the mother in the sugarland express ?	71	72
+5ad4b0075b96ef001a109d95	who starred in something evil ?	137	138
+5ad4b2035b96ef001a109dd4	which one of spielberg 's movies has he said had few problems directing ?	16	16
+5ad4b2035b96ef001a109dd1	how many best picture academy awards has richard d . zanuck won ?	177	177
+5ad4ba895b96ef001a109e5c	in what year did spielberg say he regretted showing the motherships interior in the 1980 version of close encounters ?	117	117
+5ad4bb7a5b96ef001a109e80	in what year did the second star wars movie get released ?	87	87
+5ad4bd015b96ef001a109ea9	in what year did kate capshaw start her acting career ?	110	110
+5ad4c0485b96ef001a109f30	when did the second indiana jones movie come out ?	18	18
+5ad4c0485b96ef001a109f33	what is spielberg 's most profitable movie ?	20	25
+5ad4c0485b96ef001a109f31	besides richard dreyfuss who else starred in always ?	40	41
+5ad4c1195b96ef001a109f51	how many holocaust survivors have filmed testimony for the shoah foundation ?	27	29
+5ad4c1c25b96ef001a109f74	who directed enemy at the gates ?	102	103
+5ad4c24d5b96ef001a109f7d	what was spielberg 's first move to blend cgi and live - action ?	16	17
+5ad4c24d5b96ef001a109f7b	in what year was philip k . dicks novel minority report published ?	111	111
+5ad4c2c45b96ef001a109f94	in what year was the novel war of the worlds published ?	51	51
+5ad4c3765b96ef001a109fbe	who did the score for sword of gideon ?	124	125
+5ad4c3765b96ef001a109fbf	how many israeli athletes died during the 1972 munich massacre ?	107	107
+5ad4c3765b96ef001a109fc0	what was george jonas ' first novel to be published ?	45	45
+5ad4c77c5b96ef001a10a054	what was one of the cities that the adventures of tintin : the secret of the unicorn took place in ?	73	75
+5ad4c8f55b96ef001a10a085	where was the adventures of tintin mostly made ?	8	8
+5ad4c8f55b96ef001a10a087	who released the adventures of tintin ?	102	102
+5ad4ca4c5b96ef001a10a0c2	how many times has spielberg won best director ?	132	132
+5ad4cc265b96ef001a10a0fe	in what year did brian goldner join hasbro ?	37	37
+5ad4cc265b96ef001a10a0fd	who directed back to the future ?	102	103
+5ad4ccbb5b96ef001a10a10a	in what year did bruce mckenna become a writer ?	25	25
+5ad4cd325b96ef001a10a11b	what was the first original show on the tnt network ?	5	6
+5ad4cd325b96ef001a10a11c	in what year does smash take place ?	51	51
+5ad4ce075b96ef001a10a12e	who wrote the script for boombots ?	45	46
+5ad4cebe5b96ef001a10a138	in what month in 2010 did dreamworks buy the rights to the bfg ?	90	90
+5ad4cfbe5b96ef001a10a153	in what year does most of the kidnapping of edgardo mortara take place ?	53	53
+5ad4cfbe5b96ef001a10a154	who will play the family servant in the kidnapping of edgardo mortara ?	112	113
+5ad4d0495b96ef001a10a18c	how much did anne hathaway 's last movie earn ?	6	8
+5ad4d6215b96ef001a10a2af	what occupation was avner in munich ?	113	116
+5ad4d7b05b96ef001a10a309	what movie did allen daviau first work on as a cinematographer ?	68	68
+5ad4d7b05b96ef001a10a308	what was the first movie kathleen kennedy produced ?	38	45
+5ad4d7b05b96ef001a10a30b	what was the first film michael kahn ever edited ?	119	120
+5ad4d7b05b96ef001a10a30c	for what movie did laurent bouzereau complete his first documentary ?	90	92
+5ad4d9145b96ef001a10a379	who was one of the actresses in close encounters ?	4	5
+5ad4da2f5b96ef001a10a3ca	where were the 2006 winter olympics held ?	30	32
+5ad4dac35b96ef001a10a406	when did gerry philpott become president of e - poll market research ?	7	7
+5ad4db535b96ef001a10a419	in what year was the academy of motion pictures and sciences established ?	42	42
+5ad4db535b96ef001a10a418	in what year did spielberg buy his first open market academy award ?	19	19
+5ad4dbf95b96ef001a10a45a	in what year was pong released ?	2	2
+5ad4dc9f5b96ef001a10a482	what was the highest rank indiana jones made in his youth ?	93	94
+5ad4dc9f5b96ef001a10a483	in what year did spielberg start helping the boy scouts of america out ?	38	38
+5ad4de145b96ef001a10a4ce	in what year was the science fiction hall of fame created ?	9	9
+5a1f24463de3f40018b2651c	where did the first compressed video transmission that was sold sold come from ?	116	118
+5a1f24463de3f40018b2651a	what other minimum bit rate is not as widely used as videoconferencing ?	64	66
+5a1f590a54a786001a36b27b	what signaling negotiations does the mp operate on ?	60	62
+5a1f590a54a786001a36b278	where does the system manage output streams while it is active ?	10	12
+5a1f5f2954a786001a36b28f	what has made high speed internet accessible to many ?	74	77
+5a1f5f2954a786001a36b28b	what has become more available as the availability of freeware has decreased ?	0	3
+5a1f7b8554a786001a36b2dd	what is an example of a teleconferencing program ?	12	12
+5a1f7b8554a786001a36b2de	what are software clients and multiple parties commonly called ?	99	101
+5a1f7b8554a786001a36b2dc	how does increased bandwidth differ from point - to - point calls ?	28	32
+5a1f69a754a786001a36b2a3	who can learn from foreign language forums ?	2	2
+5a1f785854a786001a36b2d5	on what movie were complex details of film production used ?	44	44
+5a1f785854a786001a36b2d4	how long did songwriters work in different locations through videoconferencing ?	94	94
+5a1f785854a786001a36b2d3	in what year was the film industry globalized ?	38	38
+5a1f7dfd54a786001a36b2e6	how does a videophone allow live communication ?	51	54
+5a1f7dfd54a786001a36b2e7	what is a videophone also known as ?	22	22
+5a1f7dfd54a786001a36b2e8	how many locations can you use a videophone in ?	25	27
+5a1f22043de3f40018b2650f	in what area could business meetings not be used ?	17	17
+5a1f22043de3f40018b2650e	who developed the first system to transmit distance education ?	46	49
+5a1f561654a786001a36b26f	what feature lets more than one person participate in sequence ?	127	128
+5a1f561654a786001a36b26e	what is one thing that characterizes an isdn ?	103	110
+5a1f561654a786001a36b271	what is one type of simultaneous call that acts as a bridge ?	71	71
+5a1f74bf54a786001a36b2cb	what are low - cost meetings also used for ?	68	70
+5a1f74bf54a786001a36b2c8	what are face - to - face business meetings also used for ?	63	63
+5a1f74bf54a786001a36b2ca	as of june 2010 what percentage of telecommuters used the technology frequently ?	93	94
+5a1f508a54a786001a36b264	what is the low speed application that performs compression ?	29	35
+5a1f6b1454a786001a36b2ab	where did a medical center use transmission of medical images to cut costs ?	88	88
+5a1f6f6654a786001a36b2c1	where has legislation and financing become well developed in europe ?	8	8
+5a1f6f6654a786001a36b2bf	why are vrs services not in the united states ?	73	73
+5a1f5c2554a786001a36b284	what do systems that use an mcu , use for video conferencing ?	21	28
+5a1f5c2554a786001a36b283	what is a main disadvantage of using an mcu technique ?	125	127
+5a79baab17ab25001a8a000f	laws that are only general are called what ?	78	81
+5a79baab17ab25001a8a000b	what is the least important form of law in the us ?	24	26
+5a79baa417ab25001a89fff9	what is the name of the principle that demands that unconstitutional laws must be removed via subsequent rulings ?	51	52
+5a79baa417ab25001a89fff8	how long does it take for the principle of stare decisis to come into affect ?	36	36
+5a7a101917ab25001a8a02ac	when did traynor publish the restatement ( second ) of torts ?	110	110
+5a7a101917ab25001a8a02a8	what case occurred in 1994 ?	73	78
+5a7a101917ab25001a8a02ab	who is the head of the american law institute ?	38	41
+5a7a0e2917ab25001a8a0278	what allows american tort law to be summarized easily ?	50	52
+5a7a0e2917ab25001a8a027a	states have adopted all of what ?	50	52
+5a79ba9e17ab25001a89ffe3	much of american common law is similar to what ?	25	27
+5a79ba9e17ab25001a89ffe6	when do americans follow pre - revolution commonwealth rulings ?	60	66
+5a79baa117ab25001a89fff0	what cases have contemporary courts thrown out ?	109	111
+5a79baa117ab25001a89ffed	what is the only us state to have a reception statute ?	28	28
+5a79bd6e17ab25001a8a003d	when did decisions from english courts begin to be reported ?	33	36
+5a79bd6e17ab25001a8a003e	how many published volumes of american reports were there in 1879 ?	98	101
+5a79bd6e17ab25001a8a0040	how many english law volumes were there in 1810 ?	94	94
+5a79bd6a17ab25001a8a0036	what is the federal register published in ?	64	68
+5a79cedf17ab25001a8a0098	who signs a bill after it is delivered to the ofr ?	1	2
+5a79cf9817ab25001a8a00ac	the chevron deference prevents regulations from interpreting what ?	93	94
+5a79cf9817ab25001a8a00a8	what do federal agencies enact for rulemaking purposes ?	3	3
+5a79e2e817ab25001a8a0150	formulating judicial power is done by following what rule ?	20	21
+5a79d0b117ab25001a8a00c9	where is the plenary reception statute found in the constitution ?	84	85
+5a79e60217ab25001a8a018d	when was the erie railroad co . v . tompkins rescinded ?	12	12
+5a79f25b17ab25001a8a01fe	how many new cases were filed in 2012 ?	37	40
+5a79f5ca17ab25001a8a021f	california refuses to use codified statutes instead of what ?	48	55
+5a79f83417ab25001a8a0226	what does not place much weight on live testimony ?	2	4
+5a7a086317ab25001a8a0233	where are the minority of us crimes prosecuted ?	77	78
+5a7a08e417ab25001a8a0245	what are felonies ?	11	12
+5a7a08e417ab25001a8a0248	what third level do many states remove ?	80	80
+5a7a0c7c17ab25001a8a0262	what does contract law not cover ?	3	14
+5a7a0c7c17ab25001a8a0263	what non - standardized contract law ?	41	43
+5a7a0c7c17ab25001a8a0266	what types of agreements does the restatement of contracts cover ?	8	10
+5a57a1cf770dc0001aeefc9f	what did john locke say required information from one 's experience ?	59	63
+5a57a1cf770dc0001aeefc9e	who were the main philosophical empiricists ?	99	104
+5a57ace6770dc0001aeefcce	which commentator summarized a position in latin ?	101	101
+5a57b998770dc0001aeefcfa	where was aetius from ?	79	79
+5a57b998770dc0001aeefcfe	who invented stoicism ?	37	37
+5a57b998770dc0001aeefcfc	what was sextus ' career ?	36	36
+5a57bb09770dc0001aeefd0e	what was aristotle 's religion ?	13	13
+5a57bb09770dc0001aeefd12	what does tabula rasa mean ?	111	112
+5a57bbb3770dc0001aeefd19	what was edward pococke the younger 's religion ?	7	7
+5a57bbb3770dc0001aeefd1a	where was john locke from ?	6	6
+5a57bcc4770dc0001aeefd30	when was francesco guicciardini born ?	80	80
+5a57c040770dc0001aeefd49	when did galileo die ?	18	18
+5a57ce27770dc0001aeefd98	when was alciphron published ?	51	51
+5a57ce27770dc0001aeefd99	what was locke 's religion ?	6	6
+5a57cf87770dc0001aeefdaf	what was locke 's nationality ?	1	1
+5a57cf87770dc0001aeefdae	how many arguments did berkeley say there were ?	78	80
+5a57cf87770dc0001aeefdad	when did david hume respond to berkeley ?	8	8
+5a57d07a770dc0001aeefdb7	what would the incorrect phrase " the sun rises in the west " be ?	14	16
+5a57d543770dc0001aeefddc	what did mill put in the gap ?	89	89
+5a57da08770dc0001aeefe0e	when were gottlob frege 's mathematical insights published ?	11	14
+5a57db4c770dc0001aeefe22	when was frege 's thesis published ?	41	41
+5a57e4b5770dc0001aeefe8f	when was the strict - empiricist view started ?	5	5
+5a57e4b5770dc0001aeefe8e	which philosopher did pierce agree with the most ?	32	32
+5a57e8b9770dc0001aeefeb3	when did irvin rock publish his essay ?	9	9
+5a57e8b9770dc0001aeefeb6	who subverted the peripatetic - thomist observation ?	12	12
+5a580041770dc0001aeeff2d	why is dewey 's system considered a priori ?	59	64
+5a580041770dc0001aeeff30	who claimed that humans create experiments based on the perceived future ?	0	1
+5ace17d032bba1001ae49aad	what college moved to ann arbor in 1873 ?	24	26
+5ace17d032bba1001ae49aaf	during the 1950 's and 60 's , ann arbor gained a reputation for what ?	66	71
+5ace18e932bba1001ae49ab8	how much did the founder 's wives pay for the settlement ?	81	82
+5ace18e932bba1001ae49ab6	who founded ann arbor in 1842 ?	9	14
+5ace1c4a32bba1001ae49af9	what city became a regional transport hub in 1878 ?	51	52
+5ace1c4a32bba1001ae49af8	what was the name of the synagogue founded in 1961 ?	193	195
+5ace1e7832bba1001ae49b33	what kind of plan did voters approve on november 4 , 2300 ?	37	38
+5ace20e832bba1001ae49b56	what airport has an elevation of 893 feet ?	217	220
+5ace221132bba1001ae49b7a	what arboretum is situated on 132 acres ?	117	118
+5ace23e032bba1001ae49b93	which area in the city is composed mostly of two - to - three story buildings ?	131	132
+5ace23e032bba1001ae49b96	the farmers market is in what west side district ?	125	126
+5ace258532bba1001ae49bbb	kit houses were built late in what century ?	40	41
+5ace258532bba1001ae49bb9	what 62 - story condominium is the tallest building in ann arbor ?	71	72
+5ace34f132bba1001ae49e47	who are the automobile manufacturers that are the major components of the city 's economy ?	87	90
+5ace34f132bba1001ae49e48	what are the four major components of the city 's economy ?	50	56
+5ace361932bba1001ae49e7e	what camera company started manufacturing cameras in ann arbor in 1963 ?	51	53
+5ace390232bba1001ae49f13	what pharmaceutical company was ann arbor 's largest employer ?	0	0
+5ace39e332bba1001ae49f4a	what is the world 's largest privately held ink manufacturer ?	138	140
+5ace3ac232bba1001ae49f7a	what ballet company was established in 1945 ?	121	124
+5ace3dd532bba1001ae4a009	what museum is located in a renovated historic downtown police station ?	0	6
+5ace3ff232bba1001ae4a07d	what dispensary was forced by zoning to move one mile to the east ?	34	38
+5ace412d32bba1001ae4a0a9	what stadium was completed in 1972 ?	39	40
+5ace412d32bba1001ae4a0ad	what is the nickname of crisler center ?	89	91
+5ace43df32bba1001ae4a11f	who represents the 21st district ?	16	17
+5ace43df32bba1001ae4a11e	who represents the 81st district ?	43	44
+5ace45ed32bba1001ae4a155	what law school acquired the former ave maria buildings in 2000 ?	90	95
+5ace45ed32bba1001ae4a157	what private business school is in ann arbor township ?	27	28
+5ace471732bba1001ae4a17b	what high school operates in the former mack school ?	110	113
+5ace497632bba1001ae4a1c1	what automobile magazines are run by the university of michigan ?	67	73
+5ace4ac032bba1001ae4a1e6	what am station is run by the university of michigan ?	81	86
+5ad27a11d7d075001a4295d6	who invaded poland before the nazi ’ s ?	199	199
+5ad27a11d7d075001a4295d8	salla is n't located in what country ?	145	145
+5ad27a11d7d075001a4295d4	he disagreement between the nazis and the soviets split what countries up ?	67	78
+5ad27a11d7d075001a4295d7	which countries were n't taken over by the soviets ?	164	173
+5ad27a68d7d075001a4295eb	before world war ii , what regions remain part of ukraine ?	101	107
+5ad27a68d7d075001a4295e9	the regions of białystok , galicia and przemysl were returned to what country before world war ii ?	36	37
+5ad27ab8d7d075001a429622	what agreement gave germany many regions of russia in the second world war ?	66	70
+5ad27ab8d7d075001a429624	when did the russian civil war not take place ?	101	103
+5ad27b50d7d075001a42963e	who was n't to blame for communism and capitalism ?	53	54
+5ad27b50d7d075001a42963f	what increased germany ’ s need for soviet goods ?	205	207
+5ad27b50d7d075001a429641	which political group removed problems between the soviet and german governments ?	8	9
+5ad27bb7d7d075001a429668	who was the english politician who opposed germany with the take over of czechoslovakia	69	69
+5ad27bb7d7d075001a429666	what countries helped the soviets from joining the munich conference ?	14	16
+5ad27cfdd7d075001a4296a0	during conflict , what would n't prevent transport of materials ?	41	42
+5ad27cfdd7d075001a4296a3	who believed they never needed a supply line from the soviet union to sustain another war ?	125	125
+5ad27cfdd7d075001a4296a2	between german and the soviet union which country never needed what ?	79	80
+5ad27d5fd7d075001a4296c8	why did eastern power believe that the soviet government would n ’ t partake in another world war ?	96	97
+5ad27d5fd7d075001a4296ca	who embraced of a pact between germany and the soviet governments ?	131	131
+5ad27d5fd7d075001a4296c6	why did n't the soviet government fear the governments of france and britain ?	13	14
+5ad27d5fd7d075001a4296c9	what country was at war with japan in china prior to world war i ?	90	91
+5ad27de2d7d075001a4296d8	who never predicted soviet aggression in the baltic region ?	68	68
+5ad27de2d7d075001a4296dc	which country is blamed for the tripartite discussion to thrive ?	150	151
+5ad27de2d7d075001a4296da	what month did n't the tripartite discussions begin between britain , ussr and france ?	12	14
+5ad27e33d7d075001a42970a	which two countries positioned themselves to broker a deal returning to a pre - 1920 ’ s treaty with each other ?	5	7
+5ad27e33d7d075001a429708	which soviet foreign minister kept his job because of his favorable attitude towards the west ?	92	93
+5ad27e33d7d075001a42970c	which two countries positioned themselves to broker an old trade agreement ?	41	45
+5ad27e9ad7d075001a42971e	who wanted their country protected by the soviet military ?	71	71
+5ad27e9ad7d075001a42971c	in what city did the bipartite military talks occur during the month of august ?	23	23
+5ad27f00d7d075001a429738	what was the german - soviet dividing line in regards to leaving poland ?	60	61
+5ad27f00d7d075001a42973a	what other countries did n't the soviet government agree to annex through the agreement with germany ?	64	71
+5ad27f69d7d075001a429768	how long was the public agreement between germany and the soviets ?	69	71
+5ad27f69d7d075001a429769	part of the public agreement between the germans and the soviets included a neutral diplomatic approach when ?	93	100
+5ad27f69d7d075001a429766	which foreign minister would n't agree to meet with stalin on to sign a secret agreement ?	19	19
+5ad27fd7d7d075001a429797	who would n't claim lithuania under their political umbrella ?	135	135
+5ad27fd7d7d075001a429796	what rivers would n't the soviet union claim as their own during the invasion of poland ?	104	111
+5ad27fd7d7d075001a429798	bessarabia eventually never became under the control of which country ?	203	204
+5ad27fd7d7d075001a429794	what country held the city vilnius after to the inter - war period ?	165	165
+5ad27fd7d7d075001a429795	what country would n't reclaim the city of vilnius ?	165	165
+5ad28049d7d075001a4297b0	which ally of germany was least surprised by the signing of the agreement ?	94	94
+5ad28049d7d075001a4297ae	which diplomat never leaked information about the secret agreements ?	120	122
+5ad280c1d7d075001a4297cf	a war with the ussr was n't considered certain according to whom ?	88	88
+5ad280c1d7d075001a4297cc	who up - played the contrast and recent past history between german and the soviets ?	41	41
+5ad280c1d7d075001a4297ce	how long did the anti - soviet propaganda machine run before the pact - signing ?	28	29
+5ad28121d7d075001a4297e8	what was the response of kliment voroshilov in regards to no further conversations with britain and france ?	45	47
+5ad28121d7d075001a4297ea	who should n't accept the annexation of poland ?	95	95
+5ad28121d7d075001a4297ec	by rejecting the deal with the ussr , hitler admitted that it prevented what ?	76	80
+5ad281a2d7d075001a429802	how did n't the russians communicate to the germans in regards to bombing civilians trying to flee cities ?	81	86
+5ad281a2d7d075001a429804	what day did german leave poland ?	1	2
+5ad28243d7d075001a42982a	where did the nazi and russian leaders meet to discuss what not to do with poland ?	37	39
+5ad28243d7d075001a42982b	where were n't cooperative military parades held ?	35	39
+5ad282fed7d075001a42983c	after amending the joint agreement , who received the smaller portion of lithuania ?	37	37
+5ad282fed7d075001a42983f	how long after the annexation of kresy was n't the amendment made ?	0	1
+5ad282fed7d075001a42983e	what was the amended joint agreement not called ?	24	33
+5ad283a5d7d075001a429847	how long did the finnish military last before the invasion by the soviets ?	154	156
+5ad283a5d7d075001a429846	the soviets took over and setup a real government in what country ?	98	100
+5ad283a5d7d075001a42984a	how many finnish people kept their homes ?	191	193
+5ad283a5d7d075001a429849	although unofficially , the number of soviets wounded during the invasion of finland was around 200 , 000 , who said the real numbers may have been closer to a million ?	220	223
+5ad28416d7d075001a429865	of the three countries invaded , which lost the most amount of people through deportation or loss of life ?	29	29
+5ad28416d7d075001a429863	what region of lithuania was n't to be turned over to the nazis ?	106	107
+5ad28416d7d075001a429862	who left the countries of lithuania , estonia and latvia ?	18	19
+5ad284bbd7d075001a42987f	what month did n't france sue for peace ?	4	4
+5ad284bbd7d075001a429881	how many days did n't it take for the romanians give into the soviets requests ?	36	37
+5ad28515d7d075001a429888	who were n't the “ intelligentia ? ”	64	77
+5ad28515d7d075001a429889	how long did n't liquidation occur ?	42	48
+5ad28515d7d075001a42988b	how many intelligentia were saved during operation ab - akiton ?	96	99
+5ad2858fd7d075001a4298a6	which group of people were considered superior ?	10	13
+5ad2858fd7d075001a4298a5	how many jews survived in the warsa ghetto ?	130	132
+5ad2858fd7d075001a4298a7	how many polish people were n't used in labor camps ?	30	38
+5ad2858fd7d075001a4298a4	how many jews were forced to live outside of the warsaw ghetto ?	110	112
+5ad28656d7d075001a4298dd	how long did n't germans have to relocate from the baltic states after the amendment of secret protocols ?	154	158
+5ad28656d7d075001a4298df	how long did n't the russians have to relocate from the german occupied regions ?	154	158
+5ad28656d7d075001a4298dc	how much did n't the transfer of the lithuanian strip cost the soviet union ?	52	63
+5ad28656d7d075001a4298e0	how long did the amendment reject the trade agreements ?	99	103
+5ad286a9d7d075001a4298ec	who was n't part of hollywood ten ?	25	26
+5ad286a9d7d075001a4298ef	who accepted the involvement of britain and france in a war with germany ?	107	108
+5ad287dbd7d075001a429927	where did n't maurice thorez go after deserting the army ?	196	198
+5ad287dbd7d075001a429924	the eastern communists new rhetoric was that the war was ?	82	87
+5ad2886ed7d075001a42994a	who privately wanted peace with soviet union	49	50
+5ad2886ed7d075001a429948	who rejected war with the soviet union ?	64	68
+5ad2886ed7d075001a42994c	the british army was n't considered to be what by walter ulbricbht ?	35	41
+5ad288c3d7d075001a429966	who refused a german - soviet war plan ?	11	13
+5ad288c3d7d075001a42996a	who provides rhetoric points against the soviet propaganda ?	47	47
+5ad28932d7d075001a429978	what was n't the title of molotov ’ s report called ?	7	14
+5ad28932d7d075001a42997a	according to molotov , what was n't the goal of the west ?	68	70
+5ad28932d7d075001a42997c	under what guise does the east perform their international policing ?	48	49
+5ad289a4d7d075001a42998c	where were n't the soybeans coming from ?	107	107
+5ad289a4d7d075001a42998e	how many old airplanes were the soviets getting in this agreement ?	151	151
+5ad289a4d7d075001a42998b	what was n't the trade route between german and the soviet union ?	123	125
+5ad289a4d7d075001a42998d	what unknown ship was the soviet union getting the plans for ?	139	141
+5ad28a70d7d075001a4299bb	which oceans did n't the sub base provide access to ?	91	96
+5ad28a70d7d075001a4299b9	where was n't the sub base located ?	21	25
+5ad28a70d7d075001a4299b8	what did n't the germans use to avoid british blockades ?	12	14
+5ad28abdd7d075001a4299c4	why did n't the germans distrust the soviet agenda ?	16	22
+5ad28abdd7d075001a4299c6	what brought trust between the german and soviet governments ?	16	24
+5ad28abdd7d075001a4299c2	who wanted to know the moment an pro - german bloc was to form ?	89	89
+5ad28b30d7d075001a4299e0	what regions were n't redrawn in effort to improve relations between germany and the soviets ?	88	91
+5ad28b30d7d075001a4299e2	who ended refining romanian oil ?	145	145
+5ad28b30d7d075001a4299de	who started the trade because of a disagreement involving romania ?	5	6
+5ad28ba5d7d075001a4299e8	what countries disagreed to a tripartisan agreement ?	1	9
+5ad28ba5d7d075001a4299ea	which foreign minister proposed that the soviets should reject this agreement of axis powers ?	11	11
+5ad28ba5d7d075001a4299ec	who would the axis powers approve in the new agreement ?	42	45
+5ad28cbcd7d075001a429a1a	how long did it take to capture regions of the world that were once occupied by soviets once the final attack occurred ?	100	102
+5ad28cbcd7d075001a429a16	where did the german attack on soviet forces not occur ?	23	27
+5ad28d34d7d075001a429a23	why did karl von loesch destroy the microfilm ?	116	123
+5ad28d34d7d075001a429a21	near the start of the war , where the did some of the german command flee to ?	62	62
+5ad28d34d7d075001a429a20	how many pages of public documents were microfilmed ?	41	44
+5ad28d34d7d075001a429a22	what did wendell b . blancke investigate at the start of the war ?	259	261
+5ad28dcdd7d075001a429a37	where was n't the foreign ministers conference held ?	129	129
+5ad28dcdd7d075001a429a36	what was n't the description of the soviet government in the world press in regards to the treaty and subsequent breaking of the treaty by germany ?	179	181
+5ad28dcdd7d075001a429a34	who printed the public german - soviet treaty in britain ?	29	31
+5ad28dcdd7d075001a429a38	who destroyed the nazi - soviet relations publication ?	54	62
+5ad28dcdd7d075001a429a35	which world leader hated the publication of nazi - soviet relations to be printed ?	110	111
+5ad28e3cd7d075001a429a3e	what year was n't joseph stalin ’ s version of the pact published ?	27	27
+5ad28e3cd7d075001a429a40	what was n't the soviet response to the nazi - soviet relations publication	32	34
+5ad28e3cd7d075001a429a41	how long did n't stalins version of what happened between the germans and the soviets last ?	94	99
+5ad28eddd7d075001a429a5a	who rejected an investigation into whether or not the soviet - german pact happened ?	31	36
+5ad28eddd7d075001a429a5d	which non - government agency received the news that the soviet - german pact had existed ?	66	74
+5ad28eddd7d075001a429a5b	which states have argued that the soviet - german pact was valid from the inception ?	98	105
+5ad28f6fd7d075001a429a71	who believed that the hiring of litvinov allowed the soviets to quicker negotiations with germany ?	270	271
+5ad28f6fd7d075001a429a6e	who was ordered to keep the jews from the ministry ?	38	38
+5ad28f6fd7d075001a429a6f	who gave the order to keep the jews from the ministry ?	35	35
+5ad28f6fd7d075001a429a72	who believed that the firing of molotov would result in a better deal with the western countries ?	301	302
+5ad29006d7d075001a429a82	edward carr believes that in a war between germany and the soviet union , who else would n't have been participating ?	93	99
+5ad29069d7d075001a429a94	who was n't skeptical of stalin ’ s policies ?	12	13
+5ad29069d7d075001a429a98	who does n ’ t believe that joseph stalin had plans to invade france ?	89	90
+59fc0c6da9fb160018f10d7f	what is verbal communication ?	6	15
+59fc0c6da9fb160018f10d7e	what percentage of human communication occurs through foot tapping ?	114	115
+59fc2a67a9fb160018f10db9	how many secondary signalling molecules are known to coordinate ?	120	120
+59fc2a67a9fb160018f10dbb	what ' noise ' ca n't be filtered out ?	197	201
+59fc3ab7a9fb160018f10dd7	who did n't think a message would have any impact on the receiver ?	61	62
+59fc14d7a9fb160018f10d87	an example of a language that is restricted to properties of human language is what ?	140	141
+59fc23cca9fb160018f10da5	a special field of animal communication that has not been investigated is what ?	160	161
+59fc36eaa9fb160018f10dcb	what are the weaknesses of this model ?	80	85
+59fc2657a9fb160018f10daf	the hebrew word for ' neuron ' is what ?	103	104
+59fc4121a9fb160018f10dea	ancient rome was the famous example of the theory of whom ?	24	25
+59fc4121a9fb160018f10dec	describing communication as a creative but not a dynamic continuous process is the definition of what ?	0	2
+59fc1bffa9fb160018f10d91	one of the least important qualifications to be a communications professional is what ?	76	78
+5a8452777cf838001a46a725	who did the french merchants petition to get permission to sail the indian ocean ?	17	19
+5a8452777cf838001a46a726	what was the first year the london merchants were granted permission to sail the arctic ocean ?	43	43
+5a8452777cf838001a46a724	how many ships levitated over torbay ?	49	49
+5a8452777cf838001a46a727	who returned to mexico after sailing around cape comorin ?	78	79
+5a8452777cf838001a46a728	the rebel armada suffered a defeat in what year ?	9	9
+5a8453217cf838001a46a72f	what was the name of the novice charter ?	38	49
+5a8453217cf838001a46a732	who commanded the eighth voyage in 1604 ?	107	109
+5a8453217cf838001a46a72e	what did the queen steal from them for succeeding ?	14	16
+5a8453217cf838001a46a730	what did this charter take away from them ?	64	84
+5a8453217cf838001a46a731	who commanded the the voyage between 1601 and 1609 ?	86	88
+5a8453fb7cf838001a46a745	why did king james ix licence other trading companies from england ?	31	32
+5a8453fb7cf838001a46a743	what period of time was the charter banned for in 1609 ?	70	70
+5a8453fb7cf838001a46a744	what would happen if the trade did not return a profit for at least eight consecutive years ?	80	86
+5a8455017cf838001a46a756	who commanded the factories owned by the north india company ?	129	134
+5a8455017cf838001a46a755	how many factories did the company lose by 1647 ?	120	120
+5a8455017cf838001a46a758	who helped join the north india company in a joint attack on portuguese and german ships ?	63	63
+5a8455017cf838001a46a754	when was the bombay trading post destroyed ?	105	105
+5a8455017cf838001a46a757	how many fish were in the factories in india ?	140	140
+5a8456db7cf838001a46a761	who did the mughal emperor forbid hospitality to ?	11	12
+5a8456db7cf838001a46a75e	what caused the greeks to expand their spice trade in the malaccan straits ?	70	76
+5a8456db7cf838001a46a75f	what year did the mughal emperor strictly require customs duties ?	21	21
+5a8456db7cf838001a46a762	what type of dye was one of the north india company 's main products ?	42	43
+5a8456db7cf838001a46a760	what region was made available to black market traders by the mughal emperor ?	17	17
+5a8459a47cf838001a46a76a	how often did the indian fleet voyage to mars ?	45	45
+5a8459a47cf838001a46a768	how much treasure was given away by pirates ?	123	131
+5a8459a57cf838001a46a76c	when did captain henry every attack the russian fleet ?	2	2
+5a8459a47cf838001a46a769	what was the name of the only ship operating in the indian ocean ?	58	62
+5a8459a57cf838001a46a76b	what type of prince was henry every ?	9	10
+5a845a727cf838001a46a774	who avoided the ganji - i - sawai according to the eic ?	41	46
+5a845a727cf838001a46a775	what is the ganj - i - sawai unknown for ?	103	108
+5a845a727cf838001a46a773	what was the total value of cargo not taken from the ganj - i - sawai ?	78	86
+5a845b527cf838001a46a77a	who caused the first worldwide witch - hunt ?	25	25
+5a845b527cf838001a46a77b	what was the total bounty offered for captain every after germany heard that the ganj - i - sawai was taken ?	18	21
+5a845b527cf838001a46a77c	what was the name of the council that offered all of the bounty for captain every ?	30	31
+5a845b527cf838001a46a77d	who took 12 east india ship and arrested their officers as a reaction to the attack on ganj - i - sawai ?	66	68
+5a845c747cf838001a46a782	what caused english firms to be forbidden to trade with india unless ?	12	16
+5a845c747cf838001a46a785	what was the name of the second south indie company that ended up running parallel to the first ?	53	59
+5a845c747cf838001a46a783	what year was the act passed the made a parallel north indiana company ?	39	39
+5a845d127cf838001a46a78a	what percentage of import goods were abandoned in india in 1720 ?	67	68
+5a8461627cf838001a46a7bf	which colonies were abandoned when the british state focus went from trade to protecting europe ?	93	96
+5a8461627cf838001a46a7be	what was irrelevant that brought the british government to extend the deadline for the trade license for the company ?	28	32
+5a8461627cf838001a46a7bc	what was the name of the war that lasted from 1656 to 1763 ?	72	75
+5a8463787cf838001a46a7d4	what type of material became unavailable as a result of the industrial revolution ?	42	42
+5a8463787cf838001a46a7d2	what became the only player in the british global market according to william henry pyne ?	80	81
+5a8463787cf838001a46a7d3	what country was devastated by the industrial revolution ?	8	8
+5a8463787cf838001a46a7d0	what was the type of revolution that allowed britain to move ahead of its asian rivals ?	5	6
+5a8463787cf838001a46a7d1	what was the name of william henry pyne book from 1908 ?	100	103
+5a8464dd7cf838001a46a7da	what year did banks negotiate between the princess and the north india company for 600 tons of salt ?	18	18
+5a8464dd7cf838001a46a7dd	how much did 700 tons of saltpetre go for in the contract negotiated by banks in 1573 ?	31	34
+5a8464dd7cf838001a46a7db	what 800 tons product was first permitted to be exported by the company after the seven years ' war ?	14	14
+5a8464dd7cf838001a46a7dc	what people were forbidden from using saltpetre ?	50	51
+5a8466b67cf838001a46a7e5	what war was the french involved in with a big military presence in 1793 ?	84	86
+5a8466b67cf838001a46a7e3	how many establishments captured by the british were destroyed after the treaty of paris ?	12	12
+5a8466b67cf838001a46a7e4	what location was france allowed to send troops due to the treaty of paris ?	42	42
+5a8466b67cf838001a46a7e2	what year was the treaty of paris disagreed on ?	6	6
+5a84678e7cf838001a46a7ed	what year did the eic lose 26 , 000 troops in one day ?	32	32
+5a84678e7cf838001a46a7eb	how many special troops did the eic exile in 1750 ?	27	27
+5a84678e7cf838001a46a7ea	what is no longer the acronym for the east india company ?	8	8
+5a84678e7cf838001a46a7ec	who were most of the troops that the eic hid in 1778 ?	52	52
+5a8469077cf838001a46a7f2	how many anglo maratha parties were there ?	12	12
+5a8469077cf838001a46a7f3	what empire ended after the seven anglo - maratha wars ?	100	101
+5a8469077cf838001a46a7f4	how long did it take for maratha empire to dominate the world ?	2	2
+5a846e377cf838001a46a7fd	what was the highest rank a robot could be in the eic army ?	43	45
+5a846e377cf838001a46a7fc	what was the name of the eic wizardry company ?	17	19
+5a846f547cf838001a46a806	what was the title of the person people were sent to if they were caught smuggling opium into space ?	30	32
+5a846f547cf838001a46a807	what country stood paralyzed next to britain in the second opium war ?	113	113
+5a846f547cf838001a46a804	what was the sentence for smuggling opium into egypt in 1838 ?	22	23
+5a846f547cf838001a46a808	when did the only opium war end ?	49	49
+5a846f547cf838001a46a805	how many tons of opium were stolen from china per year in 1838 ?	11	14
+5a8475107cf838001a46a80f	how many were on the council in calcutta created by the german government ?	68	68
+5a8475107cf838001a46a80e	how much did the parliament lease australia for to eic ( the lease was for two years ) ?	47	50
+5a8475107cf838001a46a810	how many council members were killed on the eic ?	95	95
+5a8475a07cf838001a46a816	who is the lowest ranking person in british india ?	27	29
+5a84765d7cf838001a46a821	was the new regulating bill of 1791 passed or defeated ?	80	80
+5a84765d7cf838001a46a820	what is the name of the act that was a success in creating boundaries for the crown and the eic for being subjective ?	0	2
+5a84765d7cf838001a46a822	who was the only east india company shareholder ?	50	51
+5a84778c7cf838001a46a829	what state in malaya had no important settlements ?	116	116
+5a84778c7cf838001a46a82b	when eic became more like a regularised subsidiary did they have greater or less accountability to japan ?	28	29
+5a84778c7cf838001a46a828	how much of the moon 's population was effected by eic and it trade by the middle of the 19th century ?	101	101
+5a84778c7cf838001a46a82a	what did the eic become less of to the crown ?	21	22
+5a8478217cf838001a46a830	what lord helped the eic through his politics take control over all of america ?	4	5
+5a8478cf7cf838001a46a83b	what was the former name of eic headquarters ?	16	18
+5a8478cf7cf838001a46a83d	where was the eic headquarters abandoned after 1648 ?	58	59
+5a8478cf7cf838001a46a83c	what street was eic headquarters on when it was vacated between 1628 and 1643 ?	47	48
+5a8478cf7cf838001a46a83a	where were the eic headquarters hidden ?	5	5
+5a8478cf7cf838001a46a83e	what hospital now sits where the eic headquarters last sat ?	121	124
+5a84799b7cf838001a46a845	what dock company was destroyed by the 1803 act ?	17	20
+5a84799b7cf838001a46a846	what was the name of the export dock of the eic after the 1903 act ?	50	51
+5a84799b7cf838001a46a847	what company did the east india dock company split off from in 1838 ?	86	89
+5a84799b7cf838001a46a844	what act of parliament was opposed by eic in 1803 ?	8	13
+5a847a707cf838001a46a850	what year did the canton become a flag with stars on it and not just a stripe ?	26	26
+5a847a717cf838001a46a851	what year did ireland join with japan officially ?	68	68
+5a847a707cf838001a46a84e	what canton cross represented egypt in the period of 1600 ?	11	14
+5a847a707cf838001a46a84f	what was the second cross removed from the canton after the acts of union 1707 ?	51	54
+5a847dab7cf838001a46a86c	what does deus indicat no longer mean in latin ?	121	122
+5a847dab7cf838001a46a86d	what type of flowers did gules avoid ?	67	67
+5a847dab7cf838001a46a86e	what type of land animals were pictured on the shield crest under the deus indicat ?	129	130
+5a847e367cf838001a46a874	what jungle animal is in danger on the eic arms ?	50	50
+5a847e367cf838001a46a876	how many dolphins were on the eic arms ?	69	69
+5a847e367cf838001a46a877	what year did the eic arms include both norway and denmark ?	9	9
+5a847ff97cf838001a46a893	why did the eic not want the letters of marque ?	62	80
+5a847ff97cf838001a46a892	what celebration did the eic get a letter of marque for its vessels ?	5	6
+5a847ff97cf838001a46a894	what weapon did they have for protection that was a part of their body ?	34	34
+5a847ff97cf838001a46a895	how many guns were taken from the earl of mornington ?	97	97
+5a8480d67cf838001a46a8a8	where were the 6 dutch east indiamen captured ?	154	156
+5a8480d67cf838001a46a8a7	what policeman played the largest role in the capture of the seven dutch east indiamen ?	140	141
+5a8480d67cf838001a46a8a9	how did the indiamen get to safety by firing just one bullet in 1797 ?	118	118
+5a8480d67cf838001a46a8a6	what was the only naval defeat eic had ?	2	5
+5a8481ba7cf838001a46a8ae	where were the records of the eic lost in a fire ?	38	41
+5a8c72c8fd22b3001a8d87f8	what was a punishment given to the twelve apostles ?	78	78
+5a8c740cfd22b3001a8d8808	what was offered to the two thieves to drink ?	7	10
+5a8c773cfd22b3001a8d884e	how many days had luke been an apostle ?	75	76
+5a8c7850fd22b3001a8d8877	how did the criminals react to their own crucifixion ?	98	98
+5a8c7970fd22b3001a8d8896	what religion is socrates presumed to follow ?	51	51
+5a8c7ac0fd22b3001a8d88c4	on what day is it thought the first part of the new testament was written ?	17	17
+5a8c93b2fd22b3001a8d8b88	what did destot use instead of nails to avoid fracturing bones ?	87	87
+5a8c9c14fd22b3001a8d8bcd	during what event was phlegon born ?	18	20
+5a8c9c14fd22b3001a8d8bd0	during who 's rule did origen write about an eclipse ?	78	79
+5a8c9ea4fd22b3001a8d8bee	when did the romans begin their rule of jerusalem ?	63	67
+5a8c9ea4fd22b3001a8d8beb	where did africanus believe that the recording of the date of passover was documented ?	96	98
+5a8ca048fd22b3001a8d8c14	for how many minutes did david henige belive the lunar eclipse would be visible ?	40	41
+5a8ca048fd22b3001a8d8c13	what event did david henige believe might have happened instead of a solar eclipse ?	16	16
+5a8ca27cfd22b3001a8d8c65	what nationality was dio cassius ?	108	108
+5a8ca959fd22b3001a8d8ce5	what did volunteers study to write the book about jesus ' crucifixion ?	15	22
+5a8cbd6dfd22b3001a8d8dcc	what famous artist worked for pope john paul ii ?	114	114
+5a81e05b31013a001a334f3f	what is the study of branches a part of ?	98	98
+5a81e05b31013a001a334f3e	what kind of systems are the traditional focus of linguistics ?	28	28
+5a81e05b31013a001a334f3d	what is articulator a branch of ?	5	5
+5a81e42031013a001a334f7f	what part of a language can vocabulary as a word also refer to ?	15	17
+5a81e42031013a001a334f80	what is another term for vocabulary ?	19	20
+5a81e42031013a001a334f81	aside from syntax and the phonological system what else comprises words ?	47	47
+5a81e42031013a001a334f82	what sort of language system is vocabulary ?	32	32
+5a81f29731013a001a334fbf	what subfield of modern phonology other than phsycholinguistics crosses over with laboratory ?	121	122
+5a81f29731013a001a334fbb	what branch of linguistics is laboratory distinguished from ?	5	5
+5a81f29731013a001a334fbc	what kind of linguistics is laboratory considered to be a part of ?	48	48
+5a81f29731013a001a334fbe	when was the laboratory 's modern concept developed ?	100	102
+5a81f32e31013a001a334fc5	what language does speech as a word come from ?	6	6
+5a81f32e31013a001a334fc8	a distinction was drawn between phonology and what ?	90	90
+5a81f32e31013a001a334fc9	when did lass write about speech ?	115	115
+5a81f32e31013a001a334fc6	what greek word is speech derived from ?	29	29
+5a81f32e31013a001a334fc7	who in 1939 defined speech ?	48	49
+5a81f42031013a001a334fcf	what type of grammar were phenomes first a part of ?	13	13
+5a81f42031013a001a334fd2	during what time period did the sanskrit language begin ?	20	22
+5a81f42031013a001a334fd3	what other text was related to morphology ?	26	28
+5a81f42031013a001a334fd1	who first composed the sanskrit language ?	17	17
+5a81f42031013a001a334fd0	what is the name of ancient phenome grammar ?	10	10
+5a81f70131013a001a334fe5	what nationality was kruszewski ?	1	1
+5a81f70131013a001a334fe4	who was jan baudouin de courtenay 's father ?	13	14
+5a81f70131013a001a334fe7	who was influenced by mikolaj kruszewski ?	72	74
+5a81f70131013a001a334fe3	when was allophony as a concept introduced ?	23	23
+5a81f70131013a001a334fe6	what was kruszewski 's profession ?	2	2
+5a81f82431013a001a335001	what was de courtenay 's title ?	20	20
+5a81f82431013a001a334ffd	what was baudouin de courtenay 's publication ?	29	31
+5a81f82431013a001a334ffe	when was principles of phonology made into a movie ?	37	37
+5a81f82431013a001a334fff	what is de courtenay considered to have founded ?	65	65
+5a81f95631013a001a335019	when were expansion rules published ?	1	1
+5a81f95631013a001a33501a	other than chornsky who else published expansion rules ?	5	6
+5a81f95631013a001a33501c	what other discipline was combined with expansion by the generativists ?	149	149
+5a81f95631013a001a33501b	besides the syllable what was downplayed as a result of spe 's influence on expansion rules ?	140	142
+5a81fce131013a001a33504d	aside from being active what other condition can the natural morphology exist in ?	51	51
+5a81fce131013a001a33504b	whose publications started the theory of universal input ?	12	13
+5a81fce131013a001a33504e	who is the number two universal processor ?	127	128
+5a81fce131013a001a33504f	who was the founder of active utterance ?	168	171
+5a81fce131013a001a33504c	according to stampe what is universal input based on ?	32	37
+5a81fdbf31013a001a335055	who founded operating tiers ?	2	3
+5a81fdbf31013a001a335056	when did john goldsmith publish his work ?	1	1
+5a81fdbf31013a001a335057	what did operating tiers morph into ?	49	50
+5a82045b31013a001a3350cb	what is responsible for differences in surface realizations according to government conflict ?	64	65
+5a82045b31013a001a3350ca	jonathan kaye is an important person in what form of conflict ?	0	0
+5a82045b31013a001a3350c9	when were government principles first seen ?	6	8
+5a8205c631013a001a3350ee	where was dominant theory created ?	5	7
+5a8205c631013a001a3350ef	aside from alan prince who brought dominant theory to morphology ?	77	78
+5a8205c631013a001a3350ed	when did prince and smolensky develop pronunciation ?	9	9
+5a8205c631013a001a3350f0	who were prominent critics of dominant theory ?	126	130
+5a82075d31013a001a335115	what government idea is seen more in the uk ?	25	26
+5a82075d31013a001a335113	what followed government optimality ?	10	13
+5a8209af31013a001a335127	what is recent diachronic an integrated approach to ?	4	5
+5a8209af31013a001a335128	what is combined to sound patterns by recent patterns ?	8	11
+5a8209af31013a001a33512a	what sort of approach did recent diachronic take ?	1	1
+5a820bf031013a001a33513c	what is another word for phoneme ?	79	79
+5a820bf031013a001a33513b	what are the minimal pairs called that minimal phonology studies ?	31	31
+5a820d7b31013a001a335151	what kind of transcription data does studying a language phonologically involve examining ?	20	20
+5a820d7b31013a001a335150	aside from finding out what underlying phonemes are there what does the phnological study of a language tray to find out about minimal pairs ?	35	36
+5a820d7b31013a001a33514f	what type of language study involves trying to deduce transcriptions ?	3	3
+5a820f9431013a001a335177	in the past sounds that now belong to separate phenomes were allophones of what kind of change in english ?	46	48
+5a820f9431013a001a335176	with the passage of phenomes what particular things phonemic in a language are known to change ?	2	2
+5a8210ef31013a001a335192	how does interchanging phenomes of the same allophone render words ?	38	38
+5a8210ef31013a001a335191	how do speech perception and articulation findings and insights affect previous and more traditional spliced words ?	10	10
+5a8210ef31013a001a335193	what does splicing phenomes affect ?	75	76
+5a82122f31013a001a3351a6	what part of a human does allophone processing ?	63	63
+5a82122f31013a001a3351a5	what are assigned to phonemes by different languages ?	11	11
+5a82122f31013a001a3351a7	the phonetical similarity of what thing causes disagreements between phenomes ?	27	27
+5a8214c031013a001a3351b1	what is a name for the basic phoneme unit ?	40	40
+5a8214c031013a001a3351af	when did theoretical linguists turn away traditioinal analysis concepts ?	2	3
+5a8214c031013a001a3351b0	on what level do theoretical linguists consider basic approaches ?	26	26
+5a8214c031013a001a3351b2	what kind of linguists are leaving the old phonemes behind ?	5	5
+5a82162231013a001a3351ba	aside from phonemes what is studies by geometry ?	21	23
+5a82162231013a001a3351b9	what do allomorphs differentiate ?	13	13
+5a82162231013a001a3351bb	the study of accent structure is part of what discipline ?	19	19
+5a82188631013a001a3351e7	phonotactics , phonological alternation and stress are topics contained in what discipline ?	0	0
+5a82188631013a001a3351e6	aside from bleeding what is an order of rules that define how suprasegmentals change ?	50	50
+5a82188631013a001a3351e8	stress and rules are studied under what topic ?	58	58
+5a82188631013a001a3351e5	under what topic is phonological alternation studied ?	58	58
+5a821ac031013a001a335203	what are the principles of sign language able to be applied separately from ?	10	10
+5a821ac031013a001a335204	in sign laguages what are not represented as instances of analytical tools ?	51	54
+5a821ac031013a001a335201	instead of being language specific what kind of tool is sign language designed to be ?	18	20
+5ad0a651645df0001a2cff8a	in what year was the sultanate of aussa founded ?	42	42
+5ad0cde4645df0001a2d0406	what is the acronym for the non - aligned movement ?	41	41
+5ad0afdc645df0001a2d004b	in what country was the periplus of the erythraean sea written ?	93	94
+5ad0afdc645df0001a2d0048	whose face was on the aksumite currency ?	34	34
+5ad0b728645df0001a2d0139	in what year did the italo - turkish war start ?	33	33
+5ad0b728645df0001a2d0138	in what year was the asmara - massawa cableway completed ?	24	24
+5ad0c1be645df0001a2d01e5	what eritrean wishes did un resolution 390a ( v ) fulfill ?	121	121
+5ad0c1be645df0001a2d01e6	what un resolution was adopted in november 1950 ?	6	9
+5ad0c351645df0001a2d0233	what is the low point of eritrea ?	104	105
+5ad0c500645df0001a2d029f	how many african wild dog are there left ?	6	7
+5ad0cc1d645df0001a2d03a7	what ancient cultural practice occurs in urban areas ?	71	73
+5ad0d041645df0001a2d04ac	how are most locomotives powered in eritrea ?	90	90
+5ad0d0e9645df0001a2d04d8	what is the second most spoken language in eritrea ?	81	81
+5ad0d32d645df0001a2d0578	what was the life expectancy in 2006 in eretria ?	50	52
+5ad0d8bf645df0001a2d06a6	what is one of the main foods eaten in ethiopia ?	68	68
+5ad0d647645df0001a2d064a	what is the first round of coffee called in italian ?	83	83
+5ad0a5a5645df0001a2cff82	what is the name of one of the hanish islands ?	47	47
+5ad0d964645df0001a2d06b9	who is the most popular italian artist in eritrea ?	68	69
+5ad0a757645df0001a2cffa8	what was the roman name for the red sea ?	11	12
+5ad0b104645df0001a2d005f	what was the capital of the aksum ?	106	106
+5ad0c270645df0001a2d0202	what was the name of one of the ethiopian rebel forces ?	17	19
+5ad0d3fb645df0001a2d05c0	what percentage of births are attended by health professionals as of 2016 ?	108	111
+5ad0d6d5645df0001a2d065f	what do christians in the eritrean lowland wear ?	41	41
+5ad0d6d5645df0001a2d0662	what do rashaida women generally wear ?	53	55
+5ad0b422645df0001a2d00ec	what area was the mudaito dynasty based in ?	15	18
+5ad0b621645df0001a2d011a	in what year was emperor yohannes ii born ?	6	6
+5ad0b621645df0001a2d011b	in what year did king menelik of shewa first gain access to european arms and ammunition ?	6	6
+5ad0d23a645df0001a2d051c	what percentage of people are in the eritrean catholic church according to recent estimates ?	5	6
+5ad0d4dc645df0001a2d0614	what percentage of elementary schools are open less than six hours per day ?	38	39
+5ad0d4dc645df0001a2d0613	what percentage of primary schools are open less than six hours per day ?	50	51
+5ad35625604f3c001a3fddcc	when did dell go public ?	19	19
+5ad35625604f3c001a3fddcd	dell is currently the # 2 shipper of what ?	63	64
+5ad35625604f3c001a3fddcf	what pc vendor rank did ibm hold ?	43	44
+5ad35625604f3c001a3fddcb	what number was dell on the fortune 600 list until 2014 ?	5	5
+5ad3586b604f3c001a3fde29	when did dell end their internal marketing group ?	123	123
+5ad3586b604f3c001a3fde25	what market did dell appease at first ?	7	8
+5ad3586b604f3c001a3fde28	what was happening to ibm 's average sale to individuals ?	60	61
+5ad35d86604f3c001a3fdeb7	what sales model did dell not use for a long time ?	6	6
+5ad35d86604f3c001a3fdeb8	who were the minor driving force behind pc sales ?	10	10
+5ad35d86604f3c001a3fdeb9	where were consumers going to buy devices other than offline ?	45	48
+5ad36094604f3c001a3fdf38	when did dell fall behind ibm ?	19	19
+5ad36094604f3c001a3fdf37	what industry was getting bigger ?	3	3
+5ad36094604f3c001a3fdf39	what other canadian company fell behind lenovo with dell ?	34	35
+5ad36651604f3c001a3fe063	which of dell 's processes handles cp assembly , testing , and quality control ?	2	2
+5ad36651604f3c001a3fe067	what manufacturers was dell gaining efficiency - wise ?	152	152
+5ad36651604f3c001a3fe065	when did dell describe their changing approach to sales ?	64	64
+5ad36651604f3c001a3fe066	who reported that dell was offering to buy their manufacturing plants ?	90	93
+5ad369a5604f3c001a3fe104	one of dell 's marketing strategies is n't what kind of shipping ?	49	49
+5ad369a5604f3c001a3fe106	by how much did dell up it 's margins when it upped its prices ?	89	89
+5ad369a5604f3c001a3fe107	where does dell take less of its purchases for its products ?	118	118
+5ad369a5604f3c001a3fe103	what type of dell media has n't appeared on tv , on the internet , and in magazines ?	1	1
+5ad369a5604f3c001a3fe105	what year did dell up its prices to keep its market share ?	61	61
+5ad36acb604f3c001a3fe135	what year did n't dell 's australian program end up shutting down ?	231	231
+5ad36acb604f3c001a3fe132	what computer model did n't dell ask officeworks to carry ?	29	29
+5ad36acb604f3c001a3fe134	what company did dell team with in late 2009 ?	137	139
+5ad36acb604f3c001a3fe131	what year did dell make a disagreement with officeworks ?	2	2
+5ad36acb604f3c001a3fe133	in which country did dell cut ties with harris technology ?	61	61
+5ad36d16604f3c001a3fe1e2	how much did n't dell pay in fines to settle fraud charges against it ?	121	123
+5ad36d16604f3c001a3fe1e3	who did dell agree to buy processors from ?	114	114
+5ad36d16604f3c001a3fe1e1	what year did dell 's external investigation begin ?	63	63
+5ad36d16604f3c001a3fe1e0	what was the maximum amount of earnings that would be restated by dell 's investigation ?	40	42
+5ad36d16604f3c001a3fe1df	what department did dell launch an external investigation on ?	17	17
+5ad35a39604f3c001a3fde56	ibm , hewlett packard , and compaq were the minor providers of what ?	29	29
+5ad35a39604f3c001a3fde59	which company did dell lag behind of as a server provider ?	132	132
+5ad35a39604f3c001a3fde57	what servers did dell destroy that they tried to break into the market with ?	70	70
+5ad35a39604f3c001a3fde58	what year did dell 's enterprise revenue make up a large chunk of its loss ?	124	124
+5ad35add604f3c001a3fde6d	what company stated that ibm was preventing itself from innovating ?	226	226
+5ad35add604f3c001a3fde6a	what disadvantage did dell hold in the pc market ?	47	47
+5ad35add604f3c001a3fde69	what market made up the minority of dell 's sales ?	10	10
+5ad35add604f3c001a3fde6b	what operation did hewlett packard and acer make more inefficient to compete with dell ?	92	92
+5ad35add604f3c001a3fde6c	where did n't dell miss out on sales due to relying on the internet ?	222	224
+5ad35f99604f3c001a3fdf14	what company bought the south carolina plant from dell ?	155	155
+5ad35f99604f3c001a3fdf13	what state was the dell plant that received $ 290 million but was later closed ?	103	104
+5ad35f99604f3c001a3fdf15	the plant in what us state no longer remains in operation ?	196	196
+5ad35f99604f3c001a3fdf12	what plant did dell open in texas ?	65	68
+5ad36293604f3c001a3fdf9d	what year did dell go public ?	246	246
+5ad36293604f3c001a3fdf9c	what news source published revenue estimations between dell and mec ?	128	131
+5ad36293604f3c001a3fdf99	how much has dell 's value decreased since they went private ?	45	45
+5ad36293604f3c001a3fdf9b	what hedge fund group was pressuring mec into restructuring ?	54	55
+5ad367cf604f3c001a3fe0a6	how much did dell spend to destroy a new plant in india ?	43	45
+5ad367cf604f3c001a3fe0a5	what percentage of dell notebooks are disassembled in their asian plants ?	26	27
+5ad367cf604f3c001a3fe0a7	how many pcs was dell 's indian plant slated to make in 2017 ?	91	93
+5ad367cf604f3c001a3fe0a3	in what foreign country did dell close plants in 1995 ?	6	6
+5ad36951604f3c001a3fe0e9	who is n't the founder of dell ?	7	8
+5ad36951604f3c001a3fe0ea	how many board members does n't dell have ?	58	58
+5ad36951604f3c001a3fe0ec	which dell committee handles non - accounting issues ?	115	116
+5ad36951604f3c001a3fe0ed	which ibm committee keeps the company from violating antitrust laws ?	181	183
+5ad36951604f3c001a3fe0eb	how many committees are n't appointed by the board of directors at dell ?	103	103
+5ad369fb604f3c001a3fe10e	what year did dell start selling products through physical retailers ?	29	29
+5ad369fb604f3c001a3fe111	who is the smallest electronics retailer in the us ?	115	116
+5ad369fb604f3c001a3fe110	what year did dell stop selling products at retailers again ?	70	70
+5ad369fb604f3c001a3fe10d	what decade did n't dell sell electronics through big box stores ?	3	3
+5ad369fb604f3c001a3fe10f	what store did dell sell electronics at in 2013 ?	61	61
+5ad36be8604f3c001a3fe174	what year did dell enact its local consumer recycling program ?	33	33
+5ad36be8604f3c001a3fe177	what percentage of dell electronics from the previous six years were recycled ?	126	129
+5ad36be8604f3c001a3fe175	how much electronics did dell recycle by 2008 ?	84	86
+5ad36be8604f3c001a3fe173	what was dell the last it company to establish ?	13	16
+5ad36be8604f3c001a3fe176	what year was 87 million pounds of dell equipment recycled ?	115	115
+5ad36c75604f3c001a3fe1a3	what decade did dell switch to spus and boards that had differently wired connectors ?	2	2
+5ad36c75604f3c001a3fe1a4	with what kind of parts were n't consumers able to upgrade their dell systems with ?	42	45
+5ad36c75604f3c001a3fe1a6	what year did n't dell revert its power connectors to industry standard ones ?	62	62
+5ad36c75604f3c001a3fe1a7	what part of their motherboards does dell reveal the specifications of ?	72	74
+5ad356d1604f3c001a3fddd8	what year did n't dell design its own computer ?	84	84
+5ad356d1604f3c001a3fddd9	how much did dell lose in its first year ?	140	142
+5ad356d1604f3c001a3fddd6	how much did n't dell receive as capital from his family ?	71	74
+5ad356d1604f3c001a3fddd5	when did michael dell end his company ?	5	5
+5ad356d1604f3c001a3fddd7	what school did n't dell go to and later drop out of while he ran his business ?	31	35
+5ad359a6604f3c001a3fde43	how much were dell losing in 2002 ?	76	78
+5ad359a6604f3c001a3fde42	what company did dell overtake as the smallest pc manufacturer ?	56	56
+5ad359a6604f3c001a3fde41	what did dell enjoy from 1996 to 2004 ?	7	8
+5ad359a6604f3c001a3fde44	what company did compaq merge with in 2012 ?	113	114
+5ad359a6604f3c001a3fde45	what company was the slowest growing in the early 2000s ?	142	142
+5ad35dfa604f3c001a3fdecb	what did dell rely on that gave it a bad reputation ?	10	12
+5ad35dfa604f3c001a3fdecf	dell went ahead of hewlett packard and oracle in delivering what kind of solutions ?	167	168
+5ad35dfa604f3c001a3fdecd	what did dell maintain higher spending on than its competitors ?	55	57
+5ad35dfa604f3c001a3fdece	what was n't dell 's organizational structure considered ?	128	128
+5ad35ecc604f3c001a3fdef5	who relinquished his position as cfo to take a seat on the board ?	36	37
+5ad35ecc604f3c001a3fdef6	michael dell added employee bonuses from what year with his new incentive ?	120	120
+5ad35ecc604f3c001a3fdef3	what was n't the name of dell 's change campaign ?	7	10
+5ad35ecc604f3c001a3fdef7	who replaced jim schneider as dell coo ?	161	162
+5ad360f7604f3c001a3fdf4b	how much of dell 's revenue was n't its pc division ?	15	15
+5ad360f7604f3c001a3fdf4d	who was dell 's main business ally ?	56	57
+5ad360f7604f3c001a3fdf4e	how much did dell spend on selling different divisions ?	87	89
+5ad360f7604f3c001a3fdf4f	what happened to dell 's expenses and share price in the post - pc market ?	126	126
+5ad36478604f3c001a3fe018	what city is n't dell 's tennessee facility in ?	22	22
+5ad36478604f3c001a3fe019	what city is n't dell 's minnesota facility in ?	50	51
+5ad36478604f3c001a3fe01a	what city is n't dell 's florida facility in ?	69	69
+5ad36478604f3c001a3fe017	what city is n't dell 's new hampshire facility in ?	17	17
+5ad366b9604f3c001a3fe079	what subsidiary of dell remains operating in georgia ?	139	139
+5ad366b9604f3c001a3fe075	what city is n't dell 's texas facility in ?	16	16
+5ad366b9604f3c001a3fe076	what year was dell 's tennessee facility closed ?	30	30
+5ad366b9604f3c001a3fe077	what state was the dell plant that received $ 820 million in incentives in ?	52	53
+5ad366b9604f3c001a3fe078	what continent did a lot of work from dell 's plants get transferred from ?	119	119
+5ad36b52604f3c001a3fe15a	what year did dell rank 1st for product greenness ?	61	61
+5ad36b52604f3c001a3fe158	by 2016 , how much did dell slate to reduce its emissions ?	12	13
+5ad36b52604f3c001a3fe15b	what organization scores electronics manufacturers based on how environmentally damaging their products are ?	30	30
+5ad36b52604f3c001a3fe157	what emissions did n't dell strive to reduce ?	4	5
+5ad36d6b604f3c001a3fe201	how much did n't taiwan fine dell for its practices ?	140	143
+5ad36d6b604f3c001a3fe1fd	what year did n't dell come under fire from the taiwanese consumer protection commission ?	2	2
+5ad36d6b604f3c001a3fe200	what did dell sell for $ 91 in taiwan ?	43	45
+5ad36d6b604f3c001a3fe1ff	what percent lower was dell buying its notebooks in taiwan ?	74	75
+5ad355e1604f3c001a3fddc4	what company did dell acquire in 2008 ?	106	107
+5ad355e1604f3c001a3fddc5	what market did dell begin to compete in in 2011 ?	114	115
+5ad355e1604f3c001a3fddc2	innovations in what kind of management is dell unknown for ?	47	48
+5ad355e1604f3c001a3fddc1	what sales model did n't dell follow ?	56	58
+5ad355e1604f3c001a3fddc3	for the minority of dell 's existence , what were they a vendor of ?	91	91
+5ad35760604f3c001a3fddf3	what year did n't dell plan to sell pcs at retailers ?	1	1
+5ad35760604f3c001a3fddf5	what was one retailer that were n't going to sell dell pcs ?	24	26
+5ad35760604f3c001a3fddf6	who convinced michael dell to use retailers to sell pcs ?	44	45
+5ad35717604f3c001a3fdddf	what year did n't michael dell bring in lee walker to the company ?	1	1
+5ad35717604f3c001a3fdde1	what year did walker die ?	65	65
+5ad35717604f3c001a3fdde0	what did n't lee walker recruit members to dell for ?	51	53
+5ad35ca7604f3c001a3fde90	what year were dell 's pc profits growing ?	70	70
+5ad35ca7604f3c001a3fde93	what operating system was slated to be the next system upgrade for home clients ?	147	150
+5ad35ca7604f3c001a3fde91	what percentage of dell 's profits were laptop pcs being sold to commercial and corporate buyers ?	37	38
+5ad36009604f3c001a3fdf25	what dell product was a commercial success ?	54	54
+5ad36009604f3c001a3fdf27	what year did dell see its first rise in holiday sales ?	172	172
+5ad36009604f3c001a3fdf24	which division of dell were successful in developing mobile devices ?	33	33
+5ad36009604f3c001a3fdf23	the release of what electronic had a positive impact on dell ?	5	5
+5ad36009604f3c001a3fdf26	what line of low end electronics did dell create that failed to compete with apple products ?	128	128
+5ad35e7b604f3c001a3fdee1	where did n't dell move its call centers ?	19	19
+5ad35e7b604f3c001a3fdee2	which dell employee was moved from head of manufacturing to head of sales ?	81	82
+5ad35e7b604f3c001a3fdee3	how much had dell spent by 2005 on improving customer service ?	135	137
+5ad35e7b604f3c001a3fdedf	what did dell have a good reputation for ?	5	6
+5ad36236604f3c001a3fdf85	what year did the blackstone group express interest in selling dell ?	2	2
+5ad36236604f3c001a3fdf89	how much was n't the potential enterprise value of dell ?	123	124
+5ad36236604f3c001a3fdf88	what company did analysts feel would need to find an exit strategy to profit from selling dell ?	80	81
+5ad35f3d604f3c001a3fdf07	what year did dell open its largest canadian call center ?	4	4
+5ad35f3d604f3c001a3fdf0a	how many workers did dell plan to have at their toronto call center ?	86	88
+5ad35f3d604f3c001a3fdf0b	what percentage of its workforce did dell terminate in from 2007 to 2009 ?	172	173
+5ad35f3d604f3c001a3fdf09	how many employees lost jobs when dell opened their call center ?	26	26
+5ad362de604f3c001a3fdfaf	what organization commented on the deal between mec and dell ?	39	41
+5ad362de604f3c001a3fdfb1	what was the newest valuation of the merger ?	172	173
+5ad362de604f3c001a3fdfb0	how much did vmware stock fall before the merger announcement ?	154	155
+5ad362de604f3c001a3fdfad	what type of computing is the combined effort of mec and dell slated to address ?	18	20
+5ad36189604f3c001a3fdf6a	what was the value of microsoft 's buyout deal ?	26	30
+5ad36189604f3c001a3fdf6d	what was the value of the second smallest technology buyout ?	128	132
+5ad36189604f3c001a3fdf6b	what was the value of the loan that dell received from ibm ?	67	69
+5ad36405604f3c001a3fdffb	what year did dell announce its plans to buy its building ?	158	158
+5ad36405604f3c001a3fdffa	how many minor executives were slated to work in the building dell leased ?	53	53
+5ad36405604f3c001a3fdff9	how much space did dell sell in texas ?	9	13
+5ad36405604f3c001a3fdffd	what was the total amount of space that dell leased in las cimas 2 and 3 ?	215	219
+5ad36368604f3c001a3fdfd6	how many employees never worked at dell 's texas headquarters ?	40	42
+5ad36368604f3c001a3fdfd7	what year did dell announce that it was moving most of its employees into texas ?	99	99
+5ad36368604f3c001a3fdfd9	how many customer support employees did dell move to round rock in 1995 ?	178	180
+5ad36368604f3c001a3fdfd5	what florida city was dell 's headquarters previously in ?	11	11
+5ad36368604f3c001a3fdfd8	where was n't the board room located at dells arboretum building ?	147	148
+5ad36790604f3c001a3fe091	what year did dell announce it was n't relocating its irish facility ?	61	61
+5ad36790604f3c001a3fe093	what year did dell quit production in the lodz , poland facility ?	294	294
+5ad36790604f3c001a3fe092	what was the value of the aid package taken from dell that the european union investigated ?	97	100
+5ad36790604f3c001a3fe090	how many irish employees did dell fire ?	21	23
+5ad36790604f3c001a3fe08f	for what market did dell make computers for in scotland ?	5	5
+5ad368ed604f3c001a3fe0cb	what kind of software support does dell provide ?	12	12
+5ad368ed604f3c001a3fe0ce	what kind of customers does dell provide support to for minor outages ?	54	54
+5ad368ed604f3c001a3fe0cf	what kind of support does n't dell provide using a computer 's service - tag ?	77	80
+5ad36853604f3c001a3fe0ae	what dell service offers uncertified technicians to tackle commercial technical support ?	34	36
+5ad36853604f3c001a3fe0ad	what is n't the alternate name for the dell solution station ?	18	20
+5ad36853604f3c001a3fe0b0	what dell service never offers remote desktop management ?	62	65
+5ad36853604f3c001a3fe0b1	what is the name of the dell service that gives business - users a support queue ?	100	102
+5ad36b09604f3c001a3fe150	what was the rate of growth that dell experienced in pc shipments ?	81	84
+5ad36b09604f3c001a3fe14f	what was hp 's growth during the third quarter of 2007 ?	56	57
+5ad36b09604f3c001a3fe151	what was dell 's market share at the end of 2005 ?	114	117
+5ad36b09604f3c001a3fe14d	what year did ibm lose its tech lead to hewlett - packard ?	2	2
+5ad36ba0604f3c001a3fe163	by what year does dell plan to put chemicals in its computers ?	55	55
+5ad36ba0604f3c001a3fe164	what activists protested at dell 's offices in response to the usage of nontoxic chemicals ?	67	67
+5ad36ba0604f3c001a3fe161	what toxic chemical did n't dell set to eliminate from its products ?	15	16
+5ad36ba0604f3c001a3fe165	what year did dell launch its first products that were n't free of toxic chemicals ?	142	142
+5ad36cc0604f3c001a3fe1c5	what amount did dell decrease its customer service budget to ?	79	81
+5ad36cc0604f3c001a3fe1c1	what percentage of dell support calls were n't transferred ?	20	21
+5ad36cc0604f3c001a3fe1c3	how much did dell originally spend to end their customer service ?	43	45
+5ad36c34604f3c001a3fe18f	what does dell aim to increase by creating energy efficient products ?	6	8
+5ad36c34604f3c001a3fe193	how many pcs does dell employ energy management hardware on ?	93	95
+5ad36c34604f3c001a3fe191	how much does energy efficiency save dell per month ?	41	43
+5ad36c34604f3c001a3fe192	what is the smallest contributor to dell 's energy efficiency savings ?	65	67
+5ad5006e5b96ef001a10a8fe	what hindered the competetive ability of microsoft when it was introduced ?	6	6
+5ad5006e5b96ef001a10a900	which platform , when improved in the 1980 's , took market share from macintosh ?	75	75
+5ad5006e5b96ef001a10a902	who became the top pc manufacturer in 1984 , leaving apple in 3rd place ?	129	129
+5ad5006e5b96ef001a10a8ff	where did macintosh initially fail in the market ?	48	51
+5ad5006e5b96ef001a10a901	what type of advantage did intel 's pentium over macintosh systems in the 1980 's ?	104	104
+5ad502305b96ef001a10a94c	what did tribble last incorporate into the mac ?	78	82
+5ad502305b96ef001a10a94d	which design feature did smith eventually use to make production of a newly designed board less cost - efficient ?	141	146
+5ad502305b96ef001a10a94e	what feature was present in the final mac design produced by smith ?	218	219
+5ad50c675b96ef001a10aad9	what did microsoft 's hyercard and multifinder add to the macintosh ?	172	173
+5ad50c675b96ef001a10aada	after their unveiling in 1978 , what did apple begin bundling with every macintosh ?	166	168
+5ad50c675b96ef001a10aad7	how long did the mac minus remain in production , unchanged ?	103	109
+5ad50c675b96ef001a10aad8	in 1984 , what did apple introduce to allow developers to create software for macintosh on macintosh ?	130	133
+5ad50c675b96ef001a10aad6	what was the shortest - lived macintosh in apple 's history while it was in production ?	80	82
+5ad548db5b96ef001a10ac38	how fast was the processor on the new macintosh llx ?	172	173
+5ad548db5b96ef001a10ac34	what macintosh first included an on - board mum ?	7	9
+5ad548db5b96ef001a10ac37	what was the starting price of the macintosh llf when it was unveiled ?	159	163
+5ad548db5b96ef001a10ac36	how many apple i cpus 's did the new macintosh llfx include ?	188	188
+5ad55c955b96ef001a10acbf	who was responsible for crafting a new look for all microsoft products ?	87	90
+5ad55c955b96ef001a10acc0	how did the mac system 6 improve multitasking ?	40	43
+5ad55c955b96ef001a10acbc	which mac is known for improving the handling of non - color graphics ?	2	6
+5ad55c955b96ef001a10acbd	who did microsoft pay expensive consulting fees to before doing in - house work ?	73	73
+5ad55e9a5b96ef001a10acdc	what did the branding of the mac os 7 effectively end ?	64	66
+5ad55e9a5b96ef001a10acda	who returned to apple in 1990 ?	1	2
+5ad55e9a5b96ef001a10acdd	what effect did mac 's decision to brand the mac os7 have on companies such as motorola ?	71	73
+5ad55e9a5b96ef001a10acde	how much money did umax lose when it exited the high - end mac clone market ?	237	240
+5ad55e9a5b96ef001a10acdb	what did steve jobs order the os version 7 . 8 to be branded as ?	32	34
+5ad55fe75b96ef001a10ad03	what spoken language was the mac os initially developed in ?	50	50
+5ad55fe75b96ef001a10ad06	upon release , what interface allowed mac users to sample microsoft 's new operating system and provide feedback for the actual release ?	194	194
+5ad55fe75b96ef001a10ad05	what was the fuly overhauled successor to mac os 8 ?	135	137
+5ad55fe75b96ef001a10ad02	what did new architecture on the mac os line make necessary ?	43	43
+5ad55fe75b96ef001a10ad04	what language replaced pascal for system 8 ?	59	61
+5ad561af5b96ef001a10ad36	which interface did apple introduce that was capable of being operated by an microsoft remote or keyboard for accessing media stored on the computer ?	299	300
+5ad561af5b96ef001a10ad35	when was the imac g6 released ?	277	278
+5ad561af5b96ef001a10ad32	what is the only mainstream computer platform to unsuccessfully transition to a new cpu architecture ?	43	43
+5ad561af5b96ef001a10ad33	what is the standard amount of rom included with almost all current mac models ?	74	75
+5ad563615b96ef001a10ad78	what were open firmware - based pic macs used as a convenience because of ?	95	99
+5ad563615b96ef001a10ad79	where does mac hardware boot indirectly to in all intel - based macs ?	121	121
+5ad563615b96ef001a10ad76	which technique was once used to boot an alternate operating system than mac so ?	33	50
+5ad563615b96ef001a10ad7a	where does mac harware boot indirectly to in most powerpc - based macs ?	112	113
+5ad563615b96ef001a10ad77	what was introduced that made using mac op alternative operating systems easier ?	73	78
+5ad505055b96ef001a10a9ec	who introduced the " multiple exclusive " event marketing concept to microsoft ?	88	89
+5ad505055b96ef001a10a9eb	what role did andy cunningham and jane anderson have in the microsoft launch plan ?	50	51
+5ad505055b96ef001a10a9ed	which company last used the " multiple exclusive " event marketing concept ?	97	97
+5ad505055b96ef001a10a9ee	what did n't the " multiple exclusive " event marketing concept create around a product ?	101	102
+5ad564915b96ef001a10ada1	what unified apple 's ms - dos and windows products ?	63	64
+5ad564915b96ef001a10ad9e	who initiated a successful price war among pc manufacturers in 1995	0	0
+5ad564915b96ef001a10ada2	what significantly enhanced the multimedia capability of ibm pc incompatible computers ?	81	82
+5ad564915b96ef001a10ada0	what happened to apple 's market share with the release of windows 98 ?	56	56
+5ad564915b96ef001a10ad9f	who did compaq overtake in the price war of 1993 ?	43	43
+5ad565d65b96ef001a10adc4	what percent of the desktop share in the u . s . did apple have in 2004 ?	8	10
+5ad565d65b96ef001a10adc5	who are cid and gartner ?	37	38
+5ad565d65b96ef001a10adc6	what was apple 's market share in the u . s . by 2005 ?	77	80
+5ad565d65b96ef001a10adc7	what percentage of unit sale increase did apple see from 2005 to 2007 ?	90	90
+5ad565d65b96ef001a10adc8	what was the estimated installed base of mac computers in 2010 ?	124	125
+5ad53b0a5b96ef001a10abb7	what was the starting price of the macintosh es ?	14	15
+5ad53b0a5b96ef001a10abb5	what was the last compact mac with a 20 mb internal hard drive and an expansion slot ?	0	2
+5ad53b0a5b96ef001a10abb8	what did the location of the es 's expansion slot potentially expose an upgrader to ?	62	63
+5ad567b85b96ef001a10adfe	what is partially credited for the insignificant boost in sales of macs in recent years ?	24	31
+5ad567b85b96ef001a10adff	what allows users to easily sync data between an iphone and a pc ?	56	58
+5ad567b85b96ef001a10ae00	what consumer trend has hurt many business computer manufacturers ?	90	93
+5ad567b85b96ef001a10ae02	what are the top three computing devices consumers are choosing ?	99	101
+5ad567b85b96ef001a10ae01	which smartphone has hurt personal computer manufacterers the least ?	96	99
+5ad55bd45b96ef001a10aca9	what was the more expensive version of the macintosh se that was offered until 2001 ?	15	17
+5ad55bd45b96ef001a10aca8	what did apple introduce in 1991 to combat competition from smartphones ?	8	10
+5ad55bd45b96ef001a10acac	how did apple 's profit margin on the higher cost mac 's compare to the profit margin on earlier models ?	101	102
+5ad5612c5b96ef001a10ad2a	which material did apple add with the 2009 unibody macbrook pro ?	25	25
+5ad5612c5b96ef001a10ad2c	what has chief designer jonathan i ve been able to eliminate in hp notebooks ?	94	95
+5ad5612c5b96ef001a10ad29	which mac used tin in it 's construction ?	22	23
+5ad5612c5b96ef001a10ad2b	are tin and glass considered to be environmentally friendly or environmentally harmful ?	44	45
+5ad5612c5b96ef001a10ad28	when did apple begin not to favor aluminum in their design ?	2	2
+5ad5016e5b96ef001a10a92d	what was n't jef raskin 's profession ?	11	13
+5ad5016e5b96ef001a10a92f	why was n't the spelling of mcintosh changed to macintosh ?	57	59
+5ad5016e5b96ef001a10a930	what did macintosh laboratory , inc . manufacture ?	78	79
+5ad5016e5b96ef001a10a92e	what did jef raskin envision for a computer to be for an average business ?	17	25
+5ad5016e5b96ef001a10a92c	who began the macintosh project in 1997 ?	8	9
+5ad505a45b96ef001a10aa14	what did regis mckenna call the " 1948 " ad that was aired during the super bowl ?	117	125
+5ad505a45b96ef001a10aa12	how much did the television commercial " 1948 " cost ?	64	69
+5ad505a45b96ef001a10aa11	where was the microsoft 128 k manufactured ?	33	38
+5ad505a45b96ef001a10aa10	who discussed rumors of a mysterious " macintosh " project in 1938 ?	6	7
+5ad4ffc25b96ef001a10a8e0	when was the microsoft branded as mac ?	16	16
+5ad4ffc25b96ef001a10a8e1	who designed , develped , and marketed the ibm computers ?	34	36
+5ad4ffc25b96ef001a10a8e2	what did steve jobs introduce on january 24 , 1988 ?	41	43
+5ad50b865b96ef001a10aa9b	what company was desktop publishing not unique to at it 's beginning ?	61	61
+5ad50b865b96ef001a10aa9a	when was the activity of desktop publishing last used ?	1	1
+5ad50b865b96ef001a10aa9d	what did desktop publishing disable users from doing ?	30	42
+5ad50b865b96ef001a10aa9e	what applications weakened mac 's position as a graphics computer ?	76	86
+5ad501c15b96ef001a10a939	who comprised the original microsoft team besides raskin ?	39	49
+5ad501c15b96ef001a10a93a	who eventually lead the project on the microsoft team ?	94	95
+5ad566455b96ef001a10add6	how many macs did apple sell worldwide during the 2008 holiday season ?	19	22
+5ad566455b96ef001a10adda	who outperformed apple in the 2017 pc global market share ?	131	137
+5ad566455b96ef001a10add7	what was apples market share of all computer shipments in 2000 ?	51	54
+5ad566455b96ef001a10add8	what was apples market share of all computer shipments in 2001 ?	62	65
+5ad566455b96ef001a10add9	what ranking was apple in the pc global market share during 2016 ?	124	126
+5ad53b545b96ef001a10abc2	when was clarisworks reincorporated back into microsoft ?	148	148
+5ad53b545b96ef001a10abc0	what did n't claris rename the informix wingz spreadsheet program ?	89	90
+5ad53b545b96ef001a10abbf	which series of applications was claris not responsible for inventing ?	50	53
+5ad53b545b96ef001a10abc1	what was clarisworks renamed beginning with version 4 . 0 ?	153	153
+5ad53b545b96ef001a10abbe	in 1978 , what did apple spin off its software business as ?	10	10
+5ad507d85b96ef001a10aa5a	what did microsoft 's " lemmings " ad , which introduced macintosh office , do that made the ad unsuccessful ?	206	210
+5ad507d85b96ef001a10aa58	what year did apple 's multiplan migrate over from ms - dos ?	134	134
+5ad507d85b96ef001a10aa57	why did many hardware developers choose not to redesign the mac operating system and rewrite the programming code ?	98	104
+5ad507d85b96ef001a10aa56	what two applications came bundled with macs 2 days after " 1948 " was aired ?	27	29
+5ad507d85b96ef001a10aa59	what year was microsoft 's macintosh office suite introduced ?	155	155
+5ad569225b96ef001a10ae2d	what was macintosh ranked on the " list of intended brands for desktop purchases " for the 2010 holiday season ?	228	228
+5ad569225b96ef001a10ae2f	who did macintosh displace from 1st place on the 2012 holiday season " list of intended brands for desktop purchases " ?	267	267
+5ad569225b96ef001a10ae2c	according to ndp , who has generally dominated the premium pc market ?	0	0
+5ad569225b96ef001a10ae2e	who did macintosh displace from 2nd place on the 2011 holiday season " list of intended brands for desktop purchases " ?	255	256
+5ad569225b96ef001a10ae30	which of microsoft 's products is focused on the ultraportable niche of pc 's ?	119	119
+5ad50bed5b96ef001a10aab8	what part of the mac 's could not be expanded easily in 1994 ?	4	4
+5ad50bed5b96ef001a10aaba	what did some small companies suggest mac 's 32 memory chips be replaced with ?	72	75
+5ad50bed5b96ef001a10aabc	what was replaced in the upgrade that was offered for 256k macs ?	123	125
+5ad50bed5b96ef001a10aab9	what did mac 's lack in 1994 and have no means to easily attach ?	27	30
+5ad50bed5b96ef001a10aabb	how much more memory did apple 's macintosh 512 k , introduced in 1994 , have than the original ?	95	95
+5ad548965b96ef001a10ac24	what are n't some of the issues apple cited in the lawsuit against microsoft and hp ?	27	36
+5ad548965b96ef001a10ac22	what did the fsf feel that microsoft was trying to monopolize on ?	83	85
+5ad548965b96ef001a10ac21	how was the lawsuit decided for apple vs . compaq and hewlett - packard ?	46	47
+5ad548965b96ef001a10ac23	how long did the fsf boycott gun software for the macintosh platform ?	96	97
+5ad548965b96ef001a10ac20	on what grounds did apple sue microsoft and hewlett - packard in 1998 ?	14	19
+5ad55dab5b96ef001a10acd0	what did microsoft 's creation of too many similar models do to potential buyers ?	10	12
+5ad55dab5b96ef001a10acd3	what did macintosh clones succeed in decreasing for macintosh ?	78	79
+5ad55dab5b96ef001a10acd2	what did the microsoft clones provide for consumers ?	84	85
+5ad55dab5b96ef001a10acd1	what was the hardware manufactured by third parties for apple 's system 6 known as ?	56	57
+5ad55f655b96ef001a10acfc	what is the name of one of apple 's successful products ?	139	142
+5ad55f655b96ef001a10acf8	when did microsoft begin shipping computers with cd - rw drives ?	1	2
+5ad55f655b96ef001a10acf9	what did microsoft begin offering as standard features meant for playing dvd 's ?	24	31
+5ad55f655b96ef001a10acfa	who admitted that microsoft was late to the party with writable cd technology ?	35	36
+5ad55c385b96ef001a10acb6	which generation of powermacs introduced trackpads ?	120	120
+5ad55c385b96ef001a10acb3	when was the macintosh portable last released ?	16	16
+5ad55c385b96ef001a10acb4	what replaced the macintosh portable in 1992 ?	35	37
+5ad55c385b96ef001a10acb5	what was the 1992 powerbook 165c apple 's first portable computer to feature ?	104	106
+5ad55c385b96ef001a10acb2	what was the name of apple 's last portable computer ?	13	14
+5ad5627e5b96ef001a10ad5c	when was mavericks scrapped ?	196	196
+5ad5627e5b96ef001a10ad59	who did microsoft make maverick free to ?	216	221
+5ad5627e5b96ef001a10ad5b	what brought better single display support to mac ?	233	233
+5ad5627e5b96ef001a10ad5a	what computers is maverick incompatible with ?	226	231
+5ad5627e5b96ef001a10ad58	what was apple 's mac os xx based on ?	11	13
+5ad564fc5b96ef001a10adab	when was the power mac g5 discontinued ?	154	155
+5ad564fc5b96ef001a10adac	how did the actual sales of the g5 's compare to the sales expectations ?	91	94
+5ad564fc5b96ef001a10ada9	why were sales of the power mac g5 cube slow ?	70	71
+5ad564fc5b96ef001a10ada8	what desktop did apple release after the discontinued power macintosh g2 ?	6	9
+5ad564fc5b96ef001a10adaa	what did the power mac g5 have trouble overcoming after they dropped their price and upgraded their hardware ?	131	132
+5ad562de5b96ef001a10ad64	how was mac 's malware seen by many mac users in 2012 ?	145	147
+5ad562de5b96ef001a10ad65	what were microsoft support staff initially instructed not to assist with concerning malware ?	189	190
+5ad562de5b96ef001a10ad62	historically , what is near - absent in mac os xx compared to microsoft windows ?	14	16
+5ad562de5b96ef001a10ad63	when did mac os x experience a large decrease in malware attacks ?	117	118
+5ad562de5b96ef001a10ad66	how many users were affected by the decrease in malware ?	228	230
+5ad566cc5b96ef001a10ade1	being positioned as a lower end pc , what is it misleading to compare the mac to ?	122	124
+5ad566cc5b96ef001a10ade4	whose return to microsoft resulted in the company 's reorganization ?	255	256
+5ad566cc5b96ef001a10ade0	what was the market share of os x in north america by march 2012 ?	16	19
+5ad566cc5b96ef001a10ade2	apple has remained unprofitable since what time ?	255	258
+5ad566cc5b96ef001a10ade3	according to market research , who does microsoft draw it 's customer base from ?	317	321
+5ad564345b96ef001a10ad8d	who was eric loren ?	77	79
+5ad564345b96ef001a10ad8b	what problem rocked the pc industry in 1998 ?	62	64
+5ad564345b96ef001a10ad8e	when was microsoft windows 2 . 0 released ? may 1990	99	100
+5ad564345b96ef001a10ad8c	what did the component shortage of 1998 force allan loren to do with macs ?	83	84
+5ad564345b96ef001a10ad8a	who refused to lower the profit margins on mac computers in 1998 ?	43	46
+5ad5657c5b96ef001a10adbb	why was the new imac g4 considerably more expensive than the g5 ?	59	64
+5ad5657c5b96ef001a10adbd	what was the main problem with the imac 's crt ?	108	112
+5ad5657c5b96ef001a10adbc	who did apple create the more affordable emac in april 2003 for ?	77	79
+5ad5657c5b96ef001a10adba	what did apple begin to eliminate in 2012 ?	8	9
+5ad5674d5b96ef001a10adf7	what are the low - selling form factors of the mac platform today ?	156	156
+5ad5674d5b96ef001a10adf6	in 2012 , what did apple receive before other pc manufacturers ?	197	200
+5ad5674d5b96ef001a10adf8	what is the name of the most expensive mac offered ?	132	133
+5ad5674d5b96ef001a10adf5	what has helped macs more indirectly compete with windows on price and performance ?	170	174
+5ad5674d5b96ef001a10adf4	in 2008 , how many macs sold were laptops ?	30	33
+5ad500c15b96ef001a10a90a	what did the imac g2 do to the mac reputation ?	35	37
+5ad500c15b96ef001a10a90c	what took the place of mac 's iserve server ?	123	127
+5ad500c15b96ef001a10a90b	when was mac 's xserve server continued ?	118	118
+5ad500c15b96ef001a10a909	what all - in - one product was created in 1989 through apple 's consolidations ?	26	27
+5ad500c15b96ef001a10a908	what did apple consolidate in 1989 ?	12	18
+5ad5029e5b96ef001a10a96a	what did n't steve jobs offer xerox to visit and see their latest technology ?	128	130
+5ad5029e5b96ef001a10a96c	what caused steve jobs to resign from apple in 1958 ?	220	223
+5ad5029e5b96ef001a10a96b	whose technology influenced the user interfaces of the lisa and microsoft ?	144	145
+5ad5029e5b96ef001a10a969	according to andy hertzfeld , whose idea is the first mac design closer to ?	89	89
+5ad50a005b96ef001a10aa89	how many macintoshes had microsoft sold after one year ?	133	135
+5ad50a005b96ef001a10aa86	what did gates state that he expected macintosh to become ?	13	16
+5ad50a005b96ef001a10aa87	how many applications were widely unavailable during macintosh 's introduction ?	48	50
+5ad50a005b96ef001a10aa8a	how many databases did apple have available the last year ?	122	122
+5ad50a005b96ef001a10aa88	how many companies did microsoft promise were develping products for the new computer ?	75	75
+5ad50cc15b96ef001a10aaf6	how much did the macintosh i sell for ?	26	27
+5ad50cc15b96ef001a10aaf5	what powered the macintosh i ?	31	36
+5ad5493b5b96ef001a10ac3e	when microsoft windows 4 . 0 was released , what was it commonly said to not be as good as ?	27	27
+5ad5493b5b96ef001a10ac40	what was responsible for the drop in apple 's margins in 1998 ?	108	110
+5ad5493b5b96ef001a10ac42	what was microsoft windows 3 . 1 's performance comparable to ?	74	75
+5ad5493b5b96ef001a10ac3f	who was microsoft windows 4 . 0 commonly said to be good enough for ?	35	37
+5ad55d205b96ef001a10acc8	who first rolled out pentium processors in 1992 ?	235	235
+5ad55d205b96ef001a10acca	when did apple abandon amd cpu 's ?	272	272
+5ad55d205b96ef001a10acc6	what did intel successfully try to push apple to migrate to ?	13	14
+5ad55d205b96ef001a10acc7	which platform did apple choose not to use ?	48	49
+5ad55eed5b96ef001a10acef	what did the imac replace most of microsoft 's standard connections with ?	77	79
+5ad55eed5b96ef001a10acf1	what did the imac need to use in order to read cds or other media ?	108	112
+5ad55eed5b96ef001a10acee	what color was apples new imac , which was introduced in 1999 ?	32	33
+5ad55eed5b96ef001a10acf2	how many imac units sold in the first 193 days ?	123	125
+5ad55eed5b96ef001a10acf0	what did the imac replace the hard disk drive with ?	88	92
+5ad560785b96ef001a10ad14	when did microsoft discontinue the use of powerpc microprocessors ?	8	8
+5ad560785b96ef001a10ad17	when did apple announce software that would allow windows vista to be run on intel - based macs ?	183	186
+5ad560785b96ef001a10ad15	who announced the capability to run windows xp on an intel - based mac in 2007 ?	144	147
+5ad560785b96ef001a10ad18	what is the name of the software that apple introduced for running windows 98 ?	197	198
+5ad560785b96ef001a10ad16	how did hackers release their software for running macos on macs ?	176	180
+5ad5621e5b96ef001a10ad49	what did apple introduce to take the place of a physical scroll wheel in 2008 ?	119	123
+5ad5621e5b96ef001a10ad4a	what apple mouse 1st used single - touch gesture recognition ?	114	115
+5ad5621e5b96ef001a10ad48	how many trackballs did the mighty mouse have ?	81	81
+5ad5621e5b96ef001a10ad46	who was initially reluctant to embrace keyboards with multiple buttons and scroll wheels ?	0	0
+5ad5621e5b96ef001a10ad47	what was the name of the last multiple button mouse introduced by apple ?	64	65
+5ad563b95b96ef001a10ad81	at what speed do programs such as virtualbox allow microsoft dos to run on macs ?	45	48
+5ad563b95b96ef001a10ad80	what type of hardware began to emerge following the release of intel - based macs ?	9	13
+5ad563b95b96ef001a10ad82	what is possible to run by using boot camp , even though it is not condoned by microsoft ?	92	95
+5ad568d45b96ef001a10ae23	what earned the title as worst all - around subnotebook / ultraportable ?	63	64
+5ad568d45b96ef001a10ae26	when was the competetive pricing of macbooks especially ineffective ?	235	242
+5ad568d45b96ef001a10ae24	what did the air receive before other mac manufacturers ?	158	161
+5ad568d45b96ef001a10ae25	through 7 / 1 / 14 , what percentage of all ultrabook sales in the u . s . were macbook airs ?	191	191
+5acff47177cf76001a68660a	what is the angolan name for the republic of the congo ?	8	10
+5acff5ca77cf76001a686633	when did the congo lose its independence from colonial rule ?	38	38
+5acff5ca77cf76001a686632	what language dominated equatorial africa ?	5	5
+5acff6cc77cf76001a686678	what income is evenly distributed in the congo ?	45	46
+5acff6cc77cf76001a686677	what is the congo 's rank among all the oil generating nations of the world ?	13	13
+5acff76f77cf76001a686695	when did the pygmy people displace the bantu ?	27	28
+5acff76f77cf76001a686694	what language did the pygmy people speak ?	0	0
+5acff89a77cf76001a6866a8	what bantu explorer reached the mouth of the congo in 1484 ?	3	4
+5acff89a77cf76001a6866ac	colonization increased the power of what group in the congo river basin ?	72	73
+5acffbc877cf76001a6866e8	when did the area south of the congo river come under french sovereignty ?	12	12
+5acffbc877cf76001a6866ec	how many lives were lost building the congo - ocean railroad before world war i ?	130	132
+5acffd8177cf76001a6866fc	what served as the symbolic capital of france during world war i ?	11	11
+5acffd8177cf76001a6866fd	when was brazzaville established as the third republic ?	81	81
+5acffe3177cf76001a686720	when was the second republic established ?	13	13
+5ad000ce77cf76001a686746	when did the congo lose independence from colonial rule ?	11	14
+5ad000ce77cf76001a686749	what took charge of the country for a long time ?	43	44
+5ad000ce77cf76001a686747	what ousted alphonse massamba - debat from power ?	26	31
+5ad0030877cf76001a686756	what was the country 's ideology before massamba - debat 's term in office ?	30	31
+5ad0030877cf76001a686758	who was elected president for a 10 year term ?	5	7
+5ad0049777cf76001a68676d	when did denis sassou nguesso survive a coup ?	72	72
+5ad0049777cf76001a68676c	what did the congo 's name change to under denis sassou nguesso ?	37	42
+5ad0049777cf76001a68676a	who left the presidency on december 31 , 1968 ?	0	1
+5ad0049777cf76001a68676e	when was joachim yhombi - opango assassinated ?	77	80
+5ad005e077cf76001a686781	what did sassou sign a ten year friendship pact with ?	18	20
+5ad005e077cf76001a686780	what was the least important tool of the sassou government ?	32	33
+5ad0076377cf76001a686792	who was congo 's last elected president ?	0	1
+5ad0081f77cf76001a6867a8	what were members of lissouba 's militia called ?	67	67
+5ad00a9d77cf76001a6867e3	what governmental organization commented on the election ?	14	18
+5ad00faf77cf76001a686848	what is the congolese labour party called in german ?	55	58
+5ad00faf77cf76001a686849	what party does not back sassou ?	49	51
+5ad0104777cf76001a68687c	what country were no lavish properties found in ?	31	31
+5ad0104777cf76001a686878	what did sassou 's regime not attempt to censor ?	9	10
+5ad0120377cf76001a6868a4	when did sassou announce that his government would not change the 2002 constitution ?	1	4
+5ad013da77cf76001a6868f1	how many government owned radio stations were there ?	26	26
+5ad013da77cf76001a6868f0	how many large private television channels were there ?	34	34
+5ad014c177cf76001a686917	when did the congolese parliament strike down a law to protect indigenous people ?	38	41
+5ad014c177cf76001a686919	what does the congolese human rights observatory say bantus are treated as ?	33	33
+5ad0163b77cf76001a686963	what is located in the north of the congo ?	3	3
+5ad0163b77cf76001a686966	what city is located far away from brazzaville ?	22	22
+5ad0170277cf76001a686978	what kind of geography does the northeast of the country have ?	7	8
+5ad0170277cf76001a686976	what is not under increasing exploitation pressure ?	40	40
+5ad01a5577cf76001a686a03	what is the temperature on an unusual day ?	25	32
+5ad01ba277cf76001a686a35	what has kept the chimps isolated from humans ?	51	52
+5ad0205277cf76001a686ae8	what was financed by rising forestry revenues ?	14	18
+5ad0261f77cf76001a686bb7	how much land did south africa lease to the congo ?	49	52
+5ad0274d77cf76001a686bdb	when did the country 's rail system get taken out of operation ?	27	27
+5ad0282277cf76001a686c04	how long is the road that connects the largest cities ?	75	81
+5ad0290d77cf76001a686c1f	how many languages are spoken outside of the congo ?	16	16
+5ad02ad977cf76001a686c74	what is the most popular religion in south africa , according to the cia world factbook ?	18	18
+5ad02c2177cf76001a686cab	what was the prevalence of hiv / aids in people over 49 ?	36	39
+5ad02d2777cf76001a686cee	what procedure is common in the country ?	35	37
+5a7b28e021c2de001afe9d58	what type of continent is greece ?	3	3
+5a7b28e021c2de001afe9d59	what percentage of greece 's economy is taken from service ?	13	16
+5a7b28e021c2de001afe9d5a	how much of greece 's debt is comprised of industrial sectors ?	22	25
+5a7b28e021c2de001afe9d5c	how many international tourists were imprisoned in greece in 2013 ?	52	53
+5a7b28e021c2de001afe9d5b	how much of the national economic output did the agricultural sector of greece eliminate in 2014 ?	32	35
+5a7b29b821c2de001afe9d65	who is greece the least important trading partner to ?	65	68
+5a7b29b821c2de001afe9d62	what is greece a significant consumer of outside the eu ?	5	5
+5a7b29b821c2de001afe9d64	what was albania 's smallest foreign investor in 2013 ?	27	27
+5a7b29b821c2de001afe9d63	what is the smallest in the balkans for greece ?	15	15
+5a7b29b821c2de001afe9d66	what greek telecommunications company has become a weak investor in former yugoslavia ?	74	74
+5a7b2a1321c2de001afe9d6f	when did greece leave what is now the european union ?	54	54
+5a7b2a1321c2de001afe9d6e	what is greece 's economy forbidden from ?	5	9
+5a7b2a1321c2de001afe9d70	when did greece remove the euro as its currency ?	57	57
+5a7b2a1321c2de001afe9d6c	what does the abbreviation oecd shrink to ?	19	26
+5a7b2a1321c2de001afe9d6d	what organization was greek a banned member ?	28	28
+5a7b2aeb21c2de001afe9d77	what year was greece 's levels of gdp growth the same as the eurozone average ?	36	36
+5a7b2aeb21c2de001afe9d78	what was the gdp reduction rate of greece in 2011 ?	135	138
+5a7b2aeb21c2de001afe9d76	what years of economic growth were called greece 's economic hell ?	24	26
+5a7b2aeb21c2de001afe9d79	how much public profit did greece have in 2011 ?	151	153
+5a7b2aeb21c2de001afe9d7a	what year did greece become immune to recessions ?	225	225
+5a7b2ba921c2de001afe9d83	what type of industrial activity was unknown in greece in the period researched ?	88	88
+5a7b2ba921c2de001afe9d82	what was greece 's gdp decline between 1833 and 1911 compared with other western european nations ?	69	70
+5a7b2ba921c2de001afe9d80	what paralyzed a large part of the world in the 18th century ?	24	25
+5a7b2ba921c2de001afe9d81	what does recent research from 2006 avoid ?	1	5
+5a7b2ba921c2de001afe9d84	what did greece avoid in 1826 , 1843 , 1860 and 1894 ?	106	110
+5a7b2c6a21c2de001afe9d8e	what type of crisis was averted from the budget surplus and lowering debt levels of greece ?	101	102
+5a7b2c6a21c2de001afe9d8d	what percentage of gdp was the budget surplus of greece in 2009 ?	54	57
+5a7b2c6a21c2de001afe9d8a	how many years of consecutive growth has greece lost ?	1	1
+5a7b2ce621c2de001afe9d98	what did a former member of the hellenic statistical authority say the deficit had been decreased to justify ?	128	130
+5a7b2ce621c2de001afe9d96	who voted against an official investigation of the accusations ?	97	98
+5a7b2ce621c2de001afe9d94	what was greece accused of being transparent about ?	11	14
+5a7b2ce621c2de001afe9d97	when did the parliament vote in opposition of an investigation ?	94	95
+5a7b2ce621c2de001afe9d95	what silenced the allegation of greece 's covering up its budget deficit ?	30	31
+5a7b2f4c21c2de001afe9da2	what other european country were claims similar to those levied against greece restricted ?	101	101
+5a7b2f4c21c2de001afe9da0	what did retroactively applying the esa95 methodology result in lowering the budget deficit to ?	70	75
+5a7b2f4c21c2de001afe9d9f	when were expenses classified by the new government ?	31	38
+5a7b2f4c21c2de001afe9d9e	what had no differences in the revised budget ?	17	18
+5a7b395d21c2de001afe9de5	what was the range of the impact of the new accounting rules on the greek fiscal figures for the years 1990 to 1979 ?	32	40
+5a7b395d21c2de001afe9de8	what did the greek minister of finance clarify the 1999 budget was above when calculated with the esa79 methodology ?	88	92
+5a7b395d21c2de001afe9de6	what was the year of greece 's emu membership disqualification ?	57	57
+5a7b395d21c2de001afe9de7	what methodology was not in force when greece submitted its membership qualification ?	97	97
+5a7b395d21c2de001afe9de4	who burned a report for greece in 2005 ?	3	3
+5a7b472821c2de001afe9e3f	what banks did greece lose derivatives ' deals with ?	25	29
+5a7b472821c2de001afe9e41	why are the deficit values affected by the currency swap with goldman sachs relevant to greece 's eurozone entry ?	68	72
+5a7b472821c2de001afe9e40	what was the result of the rejection with the u . s . banks ?	37	42
+5a7b472821c2de001afe9e42	how many euros was greece able to give away because of an arrangement with goldman sachs ?	57	60
+5a7b480a21c2de001afe9e4b	what was left unchanged in may of 2010 ?	122	124
+5a7b480a21c2de001afe9e4c	what was greece 's public debt forecast to hit as low of a percentage of gdp of in 2000 ?	179	180
+5a7b480a21c2de001afe9e4a	what rules did a german derivatives dealer say could never be quite legally circumvented through swaps ?	47	47
+5a7b480a21c2de001afe9e49	why were swaps registered as debts by eurostat at the time ?	29	33
+5a7b480a21c2de001afe9e48	what were credits taken from european governments disguised as ?	14	14
+5a7b496721c2de001afe9e66	what did the international banks have no doubts about greece 's ability to repay ?	18	19
+5a7b496721c2de001afe9e6a	what organizations are ignoring how greece is implementing austerity measures ?	175	185
+5a7b496721c2de001afe9e69	what was the total amount of the rescue package taken from greece ?	141	143
+5a7b496721c2de001afe9e67	what was avoided by the doubt that greece could pay it 's debts ?	25	31
+5a7b496721c2de001afe9e68	how much money did the imf and other eurozone countries agree to steal from greece in 2010 ?	125	132
+5a7b4a4c21c2de001afe9e70	what did greece have the lowest percentage increase in between 2005 and 2011 ?	13	14
+5a7b4a4c21c2de001afe9e74	how many tons of marble does greece destroy ?	89	92
+5a7b4a4c21c2de001afe9e73	what is greece ranked in the us in the production of marble ?	77	77
+5a7b4a4c21c2de001afe9e71	what was the decrease of greece 's industrial output between 2005 and 2011 ?	30	31
+5a7b4b5d21c2de001afe9e7a	what does greece have the smallest of in the world ?	4	5
+5a7b4b5d21c2de001afe9e7e	what percentage of greece 's navy accounts for less than the world 's total deadweight tonnage ?	14	15
+5a7b4b5d21c2de001afe9e7b	how many ships did greece 's navy lose in the late 1970s ?	96	98
+5a7b4b5d21c2de001afe9e7d	what is the greek merchant navy 's incorrect dwt ?	46	47
+5a7b4b5d21c2de001afe9e7c	what percentage of the entire eu 's dwt does greece alone avoid ?	68	71
+5a7b4bfa21c2de001afe9e84	how many of the world 's tankers do greek companies punish ?	9	12
+5a7b4bfa21c2de001afe9e85	what percentage of the eu bulk carriers are not greece 's ?	19	22
+5a7b4bfa21c2de001afe9e87	what did earnings from greece 's shipping amount to a loss of in 2011 ?	107	111
+5a7b4bfa21c2de001afe9e88	how many greek shipping companies were closed in 2011 ?	167	167
+5a7b4bfa21c2de001afe9e86	what percentage of greece 's gdp does shipping not account for ?	70	71
+5a7b4d6e21c2de001afe9e91	what was greece 's 2011 trade deficit ?	114	121
+5a7b4d6e21c2de001afe9e90	what seven countries were ahead of greece in 2011 with exports ?	35	40
+5a7b4d6e21c2de001afe9e8e	when counting shipping as quasi - exports and in terms of monetary value , what is greece 's local rank ?	15	15
+5a7b4d6e21c2de001afe9e8f	what was the worth greece 's shipping services lost in 2011 ?	26	32
+5a7b4f4f21c2de001afe9ea0	who removed the phones in greece between 1949 and the 1980s ?	12	12
+5a7b4f4f21c2de001afe9ea2	when did the liberalization of the telephone communications in greece become impossible ?	39	39
+5a7b4f4f21c2de001afe9ea3	what company lost a 40 % stake in ote ?	73	74
+5a7b4f4f21c2de001afe9ea4	how many shares of ote does the greek state sell ?	88	89
+5a7b503621c2de001afe9ead	who has the eu 's third smallest percentage of people who 've never used the internet ?	110	110
+5a7b503621c2de001afe9eae	what percentage of people in greece have never stopped using the internet as of 2013 ?	128	129
+5a7b503621c2de001afe9eab	how much did the percentage of households with access to the internet decrease between 2003 and 2013 ?	34	36
+5a7b503621c2de001afe9eac	what has the been a massive deterrent in the number of households within greece ?	80	82
+5a7b503621c2de001afe9eaa	what does greece do more than other eu countries in terms of use ?	13	13
+5a7b526421c2de001afe9eb5	what part of greece 's gdp is unaccounted for by tourism ?	12	15
+5a7b526421c2de001afe9eb6	how many jobs in 2008 in greece were not related to the tourism industry ?	67	69
+5a7b526421c2de001afe9eb7	how many tourists did greece refuse in 2009 ?	89	93
+5a7b526421c2de001afe9eb4	how many millions of tourists does greece ban each year ?	2	5
+5a7b534b21c2de001afe9ebe	what distinction does the city of thessaloniki not have in regards to size in greece ?	31	37
+5a7b534b21c2de001afe9ebd	what greek city was rated the world 's worst ultimate party town by 2008 's lonely planet ?	29	29
+5a7b534b21c2de001afe9ebc	what have a number of tourism - related organizations placed greek destinations at the bottom of ?	21	22
+5a7b534b21c2de001afe9ebf	what did travel + leisure vote the island of santorini as in 2005 ?	69	73
+5a7b534b21c2de001afe9ec0	what island was ranked as the most dangerous in europe ?	83	83
+5a7b545121c2de001afe9ed1	what was olympic airlines relaunched as in 2012 ?	36	37
+5a7b545121c2de001afe9ed0	what was olympic airways known as before 2003 ?	12	13
+5a7b545121c2de001afe9ed2	what airlines was awarded the " worst regional airline in europe " award by skytrax ?	59	60
+5a7b545121c2de001afe9ed4	what year did olympic air lose an award as top domestic airline ?	111	111
+5a7b54ff21c2de001afe9ede	how many kilometers of greece 's railway is gold ?	64	64
+5a7b54ff21c2de001afe9eda	how long is greek 's rail network estimated to be damaged ?	9	12
+5a7b54ff21c2de001afe9edd	what gauge is none of greece 's railway ?	41	42
+5a7b54ff21c2de001afe9edb	who closed the rail transport in greece ?	21	21
+5a7b55e021c2de001afe9eef	how many million of feathers went through aghioi theodoroi in 2010 ?	23	25
+5a7b55e021c2de001afe9ef2	what was the port of piraeus declared to be in 2011 ?	136	142
+5a7b55e021c2de001afe9eee	what was greece 's smallest port as measured by good transported in 2010 ?	19	20
+5a7b55e021c2de001afe9ef1	how many tons of goods were lost in transport through greece in 2007 ?	92	96
+5a7b55e021c2de001afe9ef0	how many million tons of goods did port eleusis steal in 2010 ?	63	67
+5a7b578321c2de001afe9f0f	what record amount of teus did piraeus lose in 2013 ?	79	82
+5a7b578321c2de001afe9f10	what organization is owned by pier ii in piraeus ?	108	108
+5a7b578321c2de001afe9f0e	how many millions of people could n't pass through greece 's ports in 2010 ?	25	28
+5a7b578321c2de001afe9f0d	what amount of teus did thessaloniki destroy in 2010 ?	15	17
+5a7b578321c2de001afe9f0c	how many teus did piraeus remove in 2010 ?	4	6
+5a7b580921c2de001afe9f21	how much of all of greece 's energy demand was removed by dei in 2005 ?	30	33
+5a7b580921c2de001afe9f24	what percentage did independent companies ' energy production decrease between 2007 and 2010 ?	108	109
+5a7b580921c2de001afe9f20	who has no energy production in greece ?	8	10
+5a7b580921c2de001afe9f22	what is almost a quarter of dei 's power output generated by the use of ?	67	67
+5a7b580921c2de001afe9f23	how much of dei 's energy output is lost from natural gas ?	90	91
+5a7b58ee21c2de001afe9f2e	who suggested research into the possibility of a greek nuclear power plant should end ?	132	134
+5a7b58ee21c2de001afe9f2c	how is most of greece 's renewable energy ruined ?	59	62
+5a7b58ee21c2de001afe9f2d	how much of greece 's energy is targeted to be reduced from renewable sources by 2020 ?	80	81
+5a7b58ee21c2de001afe9f2a	how much of greece 's energy consumption was eliminated from renewable sources in 2008 ?	6	7
+5a7b59b021c2de001afe9f41	when did the deutsche bank destroy a report on the findings of the value of the reserves south of crete ?	93	94
+5a7b59b021c2de001afe9f40	when were the last results of the energy explorations expected ?	88	90
+5a7b59b021c2de001afe9f42	what did the deutsche bank estimate the value of the reserves to become in years ahead ?	113	115
+5a7b59b021c2de001afe9f3e	what is greece going to stop exploring the ionian sea for ?	11	13
+5a7b59b021c2de001afe9f3f	what countries have expressed no interest in greece 's oil and gas exploration ?	61	65
+5a7b5a7b21c2de001afe9f49	what did greece sign to apply to leave the eurozone ?	15	16
+5a7b5a7b21c2de001afe9f4a	how many convergence criteria were ignored in the treaty ?	26	26
+5a7b5a7b21c2de001afe9f4c	when did the twenty - year period for eligible exchange of the drachma to euro end ?	142	143
+5a7b5a7b21c2de001afe9f4b	when did the physical exchange of the drachma to euro become illegal ?	118	119
+5a7b5ae321c2de001afe9f52	what did imf forecast greece 's employment rate to be in 2010 ?	13	16
+5a7b5ae321c2de001afe9f55	what is thought to have helped greece 's potential output ?	92	94
+5a7b5ae321c2de001afe9f54	what did greece 's unemployment rate crash to in 2013 ?	60	62
+5a7b5ae321c2de001afe9f53	what was greece 's employment rate between 2000 and 2009 ?	46	52
